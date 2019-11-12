@@ -44,7 +44,7 @@ def adjacency_matrix_to_graph(adjacency_matrix):
 def is_metric(G):
     shortest = dict(nx.floyd_warshall(G))
     for u, v, datadict in G.edges(data=True):
-        if shortest[u][v] != datadict['weight']:
+        if abs(shortest[u][v] - datadict['weight']) >= 0.00001:
             return False
     return True
 
