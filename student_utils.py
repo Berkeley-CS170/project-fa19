@@ -105,10 +105,3 @@ def cost_of_solution(G, car_cycle, dropoff_mapping):
 
 def convert_locations_to_indices(list_to_convert, list_of_locations):
     return [list_of_locations.index(name) if name in list_of_locations else None for name in list_to_convert]
-
-
-
-
-
-
-

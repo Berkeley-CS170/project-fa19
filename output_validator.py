@@ -31,7 +31,7 @@ def validate_all_outputs(input_directory, output_directory, params=[]):
 
     all_results = []
     for input_file in input_files:
-        output_file = utils.input_to_output(input_file)
+        output_file = utils.input_to_output(input_file, output_directory)
         print(input_file, output_file)
         if output_file not in output_files:
             print(f'No corresponding .out file for {input_file}')

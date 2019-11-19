@@ -34,5 +34,9 @@ def write_data_to_file(file, data, separator, append=False):
             f.write(f'{item}{separator}')
 
 
-def input_to_output(input_file):
-    return input_file.replace('input', 'output').replace('.in', '.out')
+def input_to_output(input_file, output_directory):
+    return (
+        os.path.join(output_directory, os.path.basename(input_file))
+        .replace("input", "output")
+        .replace(".in", ".out")
+    )
