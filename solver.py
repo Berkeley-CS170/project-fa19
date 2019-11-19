@@ -22,7 +22,8 @@ def solve(list_of_locations, list_of_homes, starting_car_location, adjacency_mat
         adjacency_matrix: The adjacency matrix from the input file
     Output:
         A list of locations representing the car path
-        A list of (location, [homes]) representing drop-offs
+        A dictionary mapping drop-off location to a list of homes of TAs that got off at that particular location
+        NOTE: the both outputs should be in terms of indices not the names of the locations themselves
     """
     pass
 
