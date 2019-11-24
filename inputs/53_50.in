@@ -1,0 +1,53 @@
+48
+16
+Location0 Location1 Location2 Location3 Location4 Location5 Location6 Location7 Location8 Location9 Location10 Location11 Location12 Location13 Location14 Location15 Location16 Location17 Location18 Location19 Location20 Location21 Location22 Location23 Location24 Location25 Location26 Location27 Location28 Location29 Location30 Location31 Location32 Location33 Location34 Location35 Location36 Location37 Location38 Location39 Location40 Location41 Location42 Location43 Location44 Location45 Location46 Location47 
+Location17 Location19 Location21 Location23 Location25 Location27 Location29 Location31 Location33 Location35 Location37 Location39 Location41 Location43 Location45 Location47 
+Location0
+x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+1 x 1 x x x x x x x x x x x x x x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x 1 x 2 x x x x x x x x x x x x x x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x 2 x 4 x x x x x x x x x x x x x x x 2 x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x 4 x 8 x x x x x x x x x x x x x x x x 4 x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x 8 x 16 x x x x x x x x x x x x x x x x x 8 x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x 16 x 32 x x x x x x x x x x x x x x x x x x 16 x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x 32 x 64 x x x x x x x x x x x x x x x x x x x 32 x x x x x x x x x x x x x x x x x x x 
+x x x x x x x 64 x 128 x x x x x x x x x x x x x x x x x x x x 64 x x x x x x x x x x x x x x x x x 
+x x x x x x x x 128 x 256 x x x x x x x x x x x x x x x x x x x x x 128 x x x x x x x x x x x x x x x 
+x x x x x x x x x 256 x 512 x x x x x x x x x x x x x x x x x x x x x x 256 x x x x x x x x x x x x x 
+x x x x x x x x x x 512 x 1024 x x x x x x x x x x x x x x x x x x x x x x x 512 x x x x x x x x x x x 
+x x x x x x x x x x x 1024 x 2048 x x x x x x x x x x x x x x x x x x x x x x x x 1024 x x x x x x x x x 
+x x x x x x x x x x x x 2048 x 4096 x x x x x x x x x x x x x x x x x x x x x x x x x 2048 x x x x x x x 
+x x x x x x x x x x x x x 4096 x 8192 x x x x x x x x x x x x x x x x x x x x x x x x x x 4096 x x x x x 
+x x x x x x x x x x x x x x 8192 x 16384 x x x x x x x x x x x x x x x x x x x x x x x x x x x 8192 x x x 
+x x x x x x x x x x x x x x x 16384 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16384 x 
+x 1 x x x x x x x x x x x x x x x x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x 1 x x x x x x x x x x x x x x 1 x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x 1 x 2 x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x 2 x x x x x x x x x x x x x x x 2 x 2 x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x 2 x 4 x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x 4 x x x x x x x x x x x x x x x x 4 x 4 x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x 4 x 8 x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x 8 x x x x x x x x x x x x x x x x x 8 x 8 x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x 8 x 16 x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x 16 x x x x x x x x x x x x x x x x x x 16 x 16 x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x 16 x 32 x x x x x x x x x x x x x x x x x x x 
+x x x x x x x 32 x x x x x x x x x x x x x x x x x x x 32 x 32 x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 32 x 64 x x x x x x x x x x x x x x x x x 
+x x x x x x x x 64 x x x x x x x x x x x x x x x x x x x x 64 x 64 x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 64 x 128 x x x x x x x x x x x x x x x 
+x x x x x x x x x 128 x x x x x x x x x x x x x x x x x x x x x 128 x 128 x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 128 x 256 x x x x x x x x x x x x x 
+x x x x x x x x x x 256 x x x x x x x x x x x x x x x x x x x x x x 256 x 256 x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 256 x 512 x x x x x x x x x x x 
+x x x x x x x x x x x 512 x x x x x x x x x x x x x x x x x x x x x x x 512 x 512 x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 512 x 1024 x x x x x x x x x 
+x x x x x x x x x x x x 1024 x x x x x x x x x x x x x x x x x x x x x x x x 1024 x 1024 x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1024 x 2048 x x x x x x x 
+x x x x x x x x x x x x x 2048 x x x x x x x x x x x x x x x x x x x x x x x x x 2048 x 2048 x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 2048 x 4096 x x x x x 
+x x x x x x x x x x x x x x 4096 x x x x x x x x x x x x x x x x x x x x x x x x x x 4096 x 4096 x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 4096 x 8192 x x x 
+x x x x x x x x x x x x x x x 8192 x x x x x x x x x x x x x x x x x x x x x x x x x x x 8192 x 8192 x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 8192 x 16384 x 
+x x x x x x x x x x x x x x x x 16384 x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16384 x 16384 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16384 x 

@@ -1,0 +1,55 @@
+50
+20
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+5 31 33 15 16 38 7 44 20 34 12 8 48 21 6 22 39 3 2 14
+0
+x x x x x x x x x x x x 79 50 x 74 x x 50 73 54 x x x x x 94 x 87 x x x 93 x x x x x x x 51 x 88 x x x x x x x
+x x 52 x 77 x x x 83 x 62 x x x 87 x 88 x x 85 78 x x x x x x x x x x x x x x 93 84 x x 66 x x x x 83 x 66 x x x
+x 52 x x x x x x 90 x x 51 50 x 84 64 x x 50 x x x 55 x x x x x x 89 51 x 96 x x x x x 87 x x x x x x 85 80 x x x
+x x x x x x x x x 93 50 x x x x x x 50 x 59 97 x x x x x x x x x 70 x x x x x x 82 79 51 x x 68 x x x x x x x
+x 77 x x x x x x x x x 95 62 x x x x x x x x x 50 x 73 x x x x x x x 60 83 96 x x x 82 x x x x x x x x x x x
+x x x x x x x x x x x x x x 66 84 69 x 50 x x x x x x x x 70 x x 81 x x x x 63 x 72 x x x x x 73 x 61 x x x x
+x x x x x x x x 63 88 x 96 x 67 x 57 x x x 82 64 69 64 x 81 x 55 x x x x x x x x 78 x 60 52 x x x x x x 69 x 66 51 x
+x x x x x x x x 82 x x x 89 52 x 50 x x x x x 97 97 x x x x x 70 x 53 x x 64 x 78 x x x x x 86 x x 51 x 51 x x x
+x 83 90 x x x 63 82 x x 65 x 70 x x 97 x x x x x x x 51 x 68 x x x x x 53 x x x 78 x 55 x x 50 67 x x x x x 96 x x
+x x x 93 x x 88 x x x 74 84 x x 76 56 x x x 95 x x 93 x 90 x x x x 77 x x 86 x 76 50 x x x x x x 71 79 x x x x x x
+x 62 x 50 x x x x 65 74 x x x x x x x x x x 91 60 x x x 78 x x x x x x x x x 84 50 x x x x x x x x x x x x x
+x x 51 x 95 x 96 x x 84 x x x x x x x x x x x x 75 x 87 x x x 72 x x 83 67 x x 51 x x 81 x x 70 66 x x 90 x 56 55 x
+79 x 50 x 62 x x 89 70 x x x x x x 73 92 x x x x x x x x x x x x x x x x 50 76 x 50 x x x x x x x x x x x x x
+50 x x x x x 67 52 x x x x x x x x 96 x x 90 64 x x x x x x 54 x x x x x x x x x x x x x x x x x x 95 x x x
+x 87 84 x x 66 x x x 76 x x x x x 60 70 x x x 77 x x 55 x 69 x x x x x x x x x x 87 x x 81 x x x x x 53 x 51 x x
+74 x 64 x x 84 57 50 97 56 x x 73 x 60 x x x 98 x x 98 x x x x x x 72 x 51 x x x x x x x x 86 x 62 51 54 x x 91 98 x x
+x 88 x x x 69 x x x x x x 92 96 70 x x x x x x x 51 81 73 x x x 86 x x x x 84 x x 50 x x x x 81 x x x 50 x 51 x x
+x x x 50 x x x x x x x x x x x x x x 81 x 89 x x 97 x x x x x x x x x x x x x x x x x x x x x x x x x x
+50 x 50 x x 50 x x x x x x x x x 98 x 81 x 79 55 x 70 x x x x 81 x x x x x x x x x x x x 91 x x x x x x x 50 x
+73 85 x 59 x x 82 x x 95 x x x 90 x x x x 79 x x 75 x x x x x 50 x x 73 87 x 57 x x x x x x x x x x x x x x 51 x
+54 78 x 97 x x 64 x x x 91 x x 64 77 x x 89 55 x x x x x x x x x x x x x x x x x x x x x x 86 x x x x x x x x
+x x x x x x 69 97 x x 60 x x x x 98 x x x 75 x x x x x x x x 69 x 50 x x x x x x x x x x 69 x x x x 73 x x x
+x x 55 x 50 x 64 97 x 93 x 75 x x x x 51 x 70 x x x x x x 56 53 x x x 51 87 52 x x x x x x x x 87 x x x x x 57 x 90
+x x x x x x x x 51 x x x x x 55 x 81 97 x x x x x x x x 82 x 63 x x 84 64 91 x x x x x x x x x x x 94 x 70 x x
+x x x x 73 x 81 x x 90 x 87 x x x x 73 x x x x x x x x x x x 54 x x 75 x 50 62 71 58 x x x x 90 x 76 x 89 x x x x
+x x x x x x x x 68 x 78 x x x 69 x x x x x x x 56 x x x x 52 85 x x x x 51 96 x x x x x x 78 x 77 x x 93 x x x
+94 x x x x x 55 x x x x x x x x x x x x x x x 53 82 x x x x 67 x x x x 50 x x x 50 62 x x x 86 x x x x x x 56
+x x x x x 70 x x x x x x x 54 x x x x 81 50 x x x x x 52 x x x x x x x x x x 50 x x 98 x x x x x x x x 66 x
+87 x x x x x x 70 x x x 72 x x x 72 86 x x x x 69 x 63 54 85 67 x x x x x 88 x 63 x 87 x x x x x 98 72 x x 75 x x 57
+x x 89 x x x x x x 77 x x x x x x x x x x x x x x x x x x x x 52 x x x x x 84 x x x x x x x x x 93 x 84 x
+x x 51 70 x 81 x 53 x x x x x x x 51 x x x 73 x 50 51 x x x x x x 52 x 86 x x x x 82 x x x x x x 84 x x x x x x
+x x x x x x x x 53 x x 83 x x x x x x x 87 x x 87 84 75 x x x x x 86 x x 51 x 88 x x 65 x 55 x x x x x x x x x
+93 x 96 x 60 x x x x 86 x 67 x x x x x x x x x x 52 64 x x x x 88 x x x x 96 x x x x 70 x 61 x x x 51 92 x x 83 x
+x x x x 83 x x 64 x x x x 50 x x x 84 x x 57 x x x 91 50 51 50 x x x x 51 96 x x x x x x x 71 x x x x x x x x x
+x x x x 96 x x x x 76 x x 76 x x x x x x x x x x x 62 96 x x 63 x x x x x x x 78 82 56 51 x x x 51 x x x x x x
+x 93 x x x 63 78 78 78 50 84 51 x x x x x x x x x x x x 71 x x x x x x 88 x x x x 82 x x x x 97 x x x x x x 72 x
+x 84 x x x x x x x x 50 x 50 x 87 x 50 x x x x x x x 58 x x 50 87 84 82 x x x 78 82 x 61 x x x x x x x x x 88 98 x
+x x x 82 x 72 60 x 55 x x x x x x x x x x x x x x x x x 50 x x x x x x x 82 x 61 x x x x x x x x x x x 91 50
+x x 87 79 82 x 52 x x x x 81 x x x x x x x x x x x x x x 62 x x x x 65 70 x 56 x x x x x x 78 x 85 53 x x 80 x x
+x 66 x 51 x x x x x x x x x x 81 86 x x x x x x x x x x x 98 x x x x x x 51 x x x x x x x x 60 79 95 x x x x
+51 x x x x x x x 50 x x x x x x x x x 91 x x x x x x x x x x x x 55 61 71 x x x x x x x 88 x x x x 90 x x x
+x x x x x x x 86 67 x x 70 x x x 62 81 x x x 86 69 87 x 90 78 x x x x x x x x x 97 x x 78 x 88 x 56 x x x 54 95 x 85
+88 x x 68 x x x x x 71 x 66 x x x 51 x x x x x x x x x x 86 x 98 x x x x x x x x x x x x 56 x x 97 x x x x 52
+x x x x x 73 x x x 79 x x x x x 54 x x x x x x x x 76 77 x x 72 x 84 x x x 51 x x x 85 60 x x x x x x x x x x
+x 83 x x x x x 51 x x x x x x x x x x x x x x x x x x x x x x x x 51 x x x x x 53 79 x x 97 x x x 69 x x x
+x x 85 x x 61 69 x x x x 90 x x 53 x 50 x x x x x x 94 89 x x x x x x x 92 x x x x x x 95 x x x x x x x x x 85
+x 66 80 x x x x 51 x x x x x 95 x 91 x x x x x 73 x x x 93 x x 75 93 x x x x x x x x x x 90 54 x x 69 x x 75 x x
+x x x x x x 66 x 96 x x 56 x x 51 98 51 x x x x x 57 70 x x x x x x x x x x x x 88 x 80 x x 95 x x x x 75 x x x
+x x x x x x 51 x x x x 55 x x x x x x 50 51 x x x x x x x 66 x 84 x x 83 x x 72 98 91 x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x 90 x x x 56 x 57 x x x x x x x x 50 x x x 85 52 x x 85 x x x x

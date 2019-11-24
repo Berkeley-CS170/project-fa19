@@ -1,0 +1,55 @@
+50
+25
+David0 Sally1 Timothy2 Grace3 Dawn4 David5 Robin6 Susan7 Tami8 Gwendolyn9 Dale10 Paul11 Yolanda12 Pamela13 Michael14 Dorothy15 Kim16 June17 Donald18 Brandon19 Sandra20 Rebecca21 Edward22 Patricia23 Bree24 Randy25 Henry26 Marvin27 Willie28 Suzanne29 Ruben30 Elizabeth31 Donald32 Gladys33 John34 Lionel35 Christopher36 Jane37 Howard38 Janice39 Nicolas40 Rudolph41 Theodore42 William43 Ariana44 David45 Diane46 Judy47 Kevin48 Brenda49
+Sally1 Timothy2 Grace3 Dawn4 Robin6 Susan7 Tami8 Dale10 Paul11 Pamela13 June17 Donald18 Sandra20 Rebecca21 Edward22 Patricia23 Randy25 Henry26 Marvin27 Suzanne29 Ruben30 Donald32 Christopher36 Jane37 Janice39
+David0
+x 16.0 16.0 16.0 16.0 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+16.0 x x x x x 16.0 x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x 16.0 x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x 16.0 x x x 16.0 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x 16.0 x x 16.0 x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x 16.0 x 16.0 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x 16.0 x x x x x 16.0 16.0 16.0 16.0 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 16.0 x x x x x 16.0 x x 16.0 x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x 16.0 16.0 x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x 16.0 x x x 16.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 16.0 x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x 16.0 16.0 16.0 16.0 16.0 x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x x 16.0 x x 16.0 x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0 x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x x x x 16.0 x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x 16.0
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.0 x

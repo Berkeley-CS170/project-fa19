@@ -1,0 +1,30 @@
+25
+12
+A B C D E F G H I J K L M N O P Q R S T U V W X Y
+A B C D E F G H I J K L
+A
+x 156 x x 246 x 184 x x x x x x x x x x 462 x x 171 x 157 x 363
+156 x 323 x x x x x x x x x x x x x x x x x x x x x x
+x 323 x 151 x x x x x x x x x x x x x x x x x x x x x
+x x 151 x x 545 x x x x x x x x x x x x x x x x x x x
+246 x x x x 174 x 100 x x x x x x x x x x x x x x x x x
+x x x 545 174 x x x x x x x x x x x x x x x x x x x x
+184 x x x x x x 83 224 x x x x x x x x x x x x 192 x x x
+x x x x 100 x 83 x x x x x x x x x x x x x x x x x x
+x x x x x x 224 x x 209 x x x x 217 x x x x x x x x x x
+x x x x x x x x 209 x 116 x x x x x x x x x x x x x x
+x x x x x x x x x 116 x 180 x x x x x x x x x x x x x
+x x x x x x x x x x 180 x 157 251 x x x x x x x x x x x
+x x x x x x x x x x x 157 x 342 x x x x x x x x x x x
+x x x x x x x x x x x 251 342 x 111 208 x x x x x 382 x x x
+x x x x x x x x 217 x x x x 111 x x x x x x x x x x x
+x x x x x x x x x x x x x 208 x x 335 462 x x x x x x x
+x x x x x x x x x x x x x x x 335 x x x x x x x x x
+462 x x x x x x x x x x x x x x 462 x x 212 x x x x x x
+x x x x x x x x x x x x x x x x x 212 x 135 x x x x x
+x x x x x x x x x x x x x x x x x x 135 x 174 x x x x
+171 x x x x x x x x x x x x x x x x x x 174 x x x x x
+x x x x x x 192 x x x x x x 382 x x x x x x x x x x x
+157 x x x x x x x x x x x x x x x x x x x x x x 171 x
+x x x x x x x x x x x x x x x x x x x x x x 171 x x
+363 x x x x x x x x x x x x x x x x x x x x x x x x

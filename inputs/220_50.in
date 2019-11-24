@@ -1,0 +1,51 @@
+46
+10
+S H0 H1 H2 H3 H4 H5 H6 H7 H8 H9 I0 I1 R0 I2 I3 R2 I4 I5 R4 I6 I7 R6 I8 I9 R8 DT0 DT1 DT2 DT3 DT4 DT5 DT6 DT7 DT8 DT9 T10 T11 T12 T13 T14 T15 T16 T17 T18 T19
+H0 H1 H2 H3 H4 H5 H6 H7 H8 H9
+S
+x x x x x x x x x x x x x 500.0 x x 500.0 x x 500.0 x x 500.0 x x 500.0 x x x x x x x x x x 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+x x 500.0 x x x x x x x x 200.0 300.0 250.0 x x x x x x x x x x x x x x x x x x x x x 1000000.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x 500.0 x x x x x x x x x 300.0 200.0 250.0 x x x x x x x x x x x x 1000000.0 x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x 500.0 x x x x x x x x x 200.0 300.0 250.0 x x x x x x x x x x 1000000.0 x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x 500.0 x x x x x x x x x x 300.0 200.0 250.0 x x x x x x x x x x x 1000000.0 x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x 500.0 x x x x x x x x x x 200.0 300.0 250.0 x x x x x x x x x 1000000.0 x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x 500.0 x x x x x x x x x x x 300.0 200.0 250.0 x x x x x x x x x x 1000000.0 x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x x 500.0 x x x x x x x x x x x 200.0 300.0 250.0 x x x x x x x x 1000000.0 x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x 500.0 x x x x x x x x x x x x 300.0 200.0 250.0 x x x x x x x x x 1000000.0 x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x x x x 500.0 x x x x x x x x x x x x 200.0 300.0 250.0 x x x x x x x 1000000.0 x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x x x 500.0 x x x x x x x x x x x x x 300.0 200.0 250.0 x x x x x x x x 1000000.0 x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x 200.0 300.0 x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x 300.0 200.0 x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+500.0 250.0 250.0 x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x 200.0 300.0 x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x 300.0 200.0 x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+500.0 x x 250.0 250.0 x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x 200.0 300.0 x x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x 300.0 200.0 x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+500.0 x x x x 250.0 250.0 x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 200.0 300.0 x x x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x 300.0 200.0 x x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+500.0 x x x x x x 250.0 250.0 x x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x 200.0 300.0 x x x x x x x x x x x x x 100.0 100.0 x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+x x x x x x x x x 300.0 200.0 x x x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0
+500.0 x x x x x x x x 250.0 250.0 x x x x x x x x x x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x
+x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x x x x x
+x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x x x x x x
+x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x x x
+x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x x x x
+x x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x
+x x x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x x x
+x x x x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x
+x x x x x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x x x
+x x x x x x x x x x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x
+x 1000000.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 0.01 x x x x x x x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x 0.01 x x x x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x 0.01 x x x x x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x 0.01 x x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x 0.01 x x x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x x 0.01 x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x 0.01 x x x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x x x x 0.01 x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x x x 0.01 x x x
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x x x x x x 0.01
+100.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x 700.0 700.0 x x x x x x x x x x x x x x x x x x x 0.01 x

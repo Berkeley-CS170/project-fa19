@@ -1,0 +1,55 @@
+50
+25
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+1
+x 152 297 x 463 x 387 x x x x x x x 420 x 746 x 336 x x x 456 367 x 566 x x x x x x x x x x x x x x x x x x x x x x 668 x
+152 x x x x x x x x 746 x x x x 524 x 780 x x x x x x x x x x x x x x x 158 476 x x x x x x 490 684 x 683 x 534 x 85 x x
+297 x x x x x x x x x x x x x x x x 829 x 403 x x 735 x x x x 215 x x x x x 741 77 x x x x x x x x 732 x x x 187 x x
+x x x x x x x x x x x x x 733 x x x x x x 395 x x x x x x x x x x x x x x x x x 767 x x x x x x 162 970 x x x
+463 x x x x x x x x x x x x 492 x x x x x x x 544 x x x x 218 x 136 x x x x x x x x x x x x x x 847 x x x 481 x 636
+x x x x x x x x x x x x x x x x x x x x 361 x x x x x x x 451 x x x x x x x x 515 x x x x x 467 x x x 486 x x
+387 x x x x x x x x x x x x 323 x 469 x 379 x x 391 x x x x x x 487 x x x 525 x 345 x x x x x x x x 499 439 x x 237 x x x
+x x x x x x x x 927 x x x x 953 x x x x 191 x x x 732 x x 782 x 235 626 676 x x x 757 102 x 300 x x x x x x x x 808 738 x x x
+x x x x x x x 927 x x 600 242 x x 453 x x x x x x x x x x x x x x x x 112 x x x 615 x x x 510 x x x x 37 x x x x x
+x 746 x x x x x x x x x x 93 x x x x x x 847 x x x x 757 617 x 792 x x x x 824 x x x x x x x x x 397 886 138 x x x x x
+x x x x x x x x 600 x x x x 682 486 x x x 316 x x x x x x 662 229 x x x x x x x x x x 373 738 x x x x x x x 628 x x x
+x x x x x x x x 242 x x x 326 x x x x x x x x x 164 790 x x 353 x 533 x 580 x x x x x x x x x x 546 445 642 x 781 x x x x
+x x x x x x x x x 93 x 326 x x x x x x x x x x x 847 x x x x x x x x x x x x x x x x x x x x x x x x x 994
+x x x 733 492 x 323 953 x x 682 x x x x 733 x x x x x x x x x x x x x x x x x x x x x x x x 570 x 512 x x x x x x x
+420 524 x x x x x x 453 x 486 x x x x x x x x 768 432 x x x x x x x x x x x x x 638 870 x x x x x x x x x x x 596 569 x
+x x x x x x 469 x x x x x x 733 x x x x x x x x 491 x x x 291 x 364 x x 779 x x x 631 x x x x x x x x 651 x x x x x
+746 780 x x x x x x x x x x x x x x x x x x x x x 918 695 x x x x x x 211 x 341 x x 1046 x x x 542 x x x x x x x x x
+x x 829 x x x 379 x x x x x x x x x x x x x x x x x x x x x x 193 x x 655 x x x x x x 461 x x x x x x x x x x
+336 x x x x x x 191 x x 316 x x x x x x x x x 788 x 746 x x 897 x x 544 x x x x x x x x x 1048 x x x x 806 x x x x 876 x
+x x 403 x x x x x x 847 x x x x 768 x x x x x x 955 x x 853 x 462 x x x 416 x x x x x x x x x x x 466 x x x x x x x
+x x x 395 x 361 391 x x x x x x x 432 x x x 788 x x x x x x 619 x x 305 x x x x x x x x x 379 x x x x x x 512 x 612 x x
+x x x x 544 x x x x x x x x x x x x x x 955 x x 314 x x x x x x 365 x x x x x x x x x x x x x x 330 900 x x x x
+456 x 735 x x x x 732 x x x 164 x x x 491 x x 746 x x 314 x x x x x x 370 x x x x x x x x x x x x 586 x x x x 451 x x x
+367 x x x x x x x x x x 790 847 x x x 918 x x x x x x x x x x x x 580 470 851 x x x x x x x x x x x x x x x 191 x x
+x x x x x x x x x 757 x x x x x x 695 x x 853 x x x x x x x 533 x x x x x x 591 x x x 631 x x x x x x 1019 x 611 x 664
+566 x x x x x x 782 x 617 662 x x x x x x x 897 x 619 x x x x x x x x x x x x x x x x 657 x x x x x x x x 46 755 x x
+x x x x 218 x x x x x 229 353 x x x 291 x x x 462 x x x x x x x x 252 x 386 x x x x x x x x x x x x x x x x x x x
+x x 215 x x x 487 235 x 792 x x x x x x x x x x x x x x 533 x x x x x x x x x x x x 271 816 x x x x x x x x x x 193
+x x x x 136 451 x 626 x x x 533 x x x 364 x x 544 x 305 x 370 x x x 252 x x x 170 x x x x 313 x x x x x x x x x x x x x x
+x x x x x x x 676 x x x x x x x x x 193 x x x 365 x 580 x x x x x x x x x x x x x x x x 358 x x x x x 444 512 x 655
+x x x x x x x x x x x 580 x x x x x x x 416 x x x 470 x x 386 x 170 x x 465 x 312 x x x x x 676 74 x x 1020 x x x x x x
+x x x x x x 525 x 112 x x x x x x 779 211 x x x x x x 851 x x x x x x 465 x x x x x x x 307 x x x 366 x x x x x 195 x
+x 158 x x x x x x x 824 x x x x x x x 655 x x x x x x x x x x x x x x x x x x x x x 422 631 x x x x x x x x x
+x 476 741 x x x 345 757 x x x x x x x x 341 x x x x x x x x x x x x x 312 x x x x x x 732 x 417 241 x x x x x 576 x x x
+x x 77 x x x x 102 x x x x x x 638 x x x x x x x x x 591 x x x x x x x x x x x 227 x x x x x x x 829 x x x x x
+x x x x x x x x 615 x x x x x 870 631 x x x x x x x x x x x x 313 x x x x x x x x x x x 282 x 343 x x x x x x x
+x x x x x x x 300 x x x x x x x x 1046 x x x x x x x x x x x x x x x x x 227 x x x x x x x x x x x 916 x x x
+x x x x x 515 x x x x 373 x x x x x x x x x x x x x x 657 x 271 x x x x x 732 x x x x x x x x x x x x x x 914 x
+x x x 767 x x x x x x 738 x x x x x x x 1048 x 379 x x x 631 x x 816 x x x 307 x x x x x x x 462 x 639 x x x x x x 449 x
+x x x x x x x x 510 x x x x x x x x 461 x x x x x x x x x x x x 676 x 422 417 x x x x 462 x x x x x x x x x x 623
+x 490 x x x x x x x x x x x 570 x x 542 x x x x x x x x x x x x 358 74 x 631 241 x 282 x x x x x x x x x x x x x x
+x 684 x x x x x x x x x 546 x x x x x x x x x x 586 x x x x x x x x x x x x x x x 639 x x x 852 x x x x 727 x 778
+x x x x x x 499 x x 397 x 445 x 512 x x x x x 466 x x x x x x x x x x x 366 x x x 343 x x x x x 852 x x x x x x 186 x
+x 683 732 x 847 467 439 x x 886 x 642 x x x x x x 806 x x x x x x x x x x x 1020 x x x x x x x x x x x x x 871 x x x x x
+x x x x x x x x 37 138 x x x x x 651 x x x x x 330 x x x x x x x x x x x x 829 x x x x x x x x 871 x x 640 x x x
+x 534 x 162 x x x 808 x x x 781 x x x x x x x x 512 900 x x 1019 x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x 970 x x 237 738 x x 628 x x x x x x x x x x x 451 x x 46 x x x 444 x x x 576 x x 916 x x x x x x x 640 x x 717 x x
+x 85 187 x 481 486 x x x x x x x x 596 x x x x x 612 x x 191 611 755 x x x 512 x x x x x x x x x x x 727 x x x x 717 x x x
+668 x x x x x x x x x x x x x 569 x x x 876 x x x x x x x x x x x x 195 x x x x x 914 449 x x x 186 x x x x x x x
+x x x x 636 x x x x x x x 994 x x x x x x x x x x x 664 x x 193 x 655 x x x x x x x x x 623 x 778 x x x x x x x x

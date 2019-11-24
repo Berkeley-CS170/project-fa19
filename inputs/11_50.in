@@ -1,0 +1,55 @@
+50
+25
+Soda loc0 loc1 loc2 loc3 loc4 loc5 loc6 loc7 loc8 loc9 loc10 loc11 loc12 loc13 loc14 loc15 loc16 loc17 loc18 loc19 loc20 loc21 loc22 loc23 loc24 loc25 loc26 loc27 loc28 loc29 loc30 loc31 loc32 loc33 loc34 loc35 loc36 loc37 loc38 loc39 loc40 loc41 loc42 loc43 loc44 loc45 loc46 loc47 loc48
+loc2 loc25 loc20 loc4 loc46 loc8 loc14 loc17 loc3 loc30 loc22 loc16 loc48 loc1 loc31 loc11 loc45 loc19 loc29 loc15 loc12 loc10 loc9 loc5 loc42
+Soda
+x x x x x x x x x x x x x 40000 x x x x 40000 x x x x x x x x x x x x x x x 40000 x x x x x x x x x 20000 x x x x 40000
+x x 8 x x 8 10 x 7 9 7 7 x x 7 x x 8 x x x 12 8 x x 8 x 8 x x 4 x x x x x x x x 11 7 6 x x x 8 7 x x x
+x 8 x 5 5 4 x 5 x 8 3 4 2 x 3 x x 6 x x 5 x 4 x x x 7 6 x x x x 7 x x x x x x 4 x x x x x x 5 5 x x
+x x 5 x 6 x 7 4 2 7 x 3 3 x x x x 4 x x 6 x 3 1000 x 6 x 3 9 x 5 x x 8 x x x 6 x 8 x x x x x x 6 x x x
+x x 5 6 x 4 5 5 4 7 4 3 x x 4 x x 3 x x 6 3 x x x 8 x 4 x x 5 x 8 7 x x x 5 x 6 x 4 x x x 1 3 7 x x
+x 8 4 x 4 x 6 2 3 6 1 4 2 x x x x 4 x x 3 7 3 x x x x 3 8 x 4 x 7 3 x x x x x 6 x 3 x x x 4 x 4 x x
+x 10 x 7 5 6 x x x x 5 x 4 x x x x 5 x x 7 x 6 x x x x 4 2 x 6 x 8 x x x x 9 x x 6 6 x x x 6 7 7 x x
+x x 5 4 5 2 x x x x 3 2 3 x 3 x x x x x 5 x 1 x x x x 1 7 x 5 x 7 5 x x x 5 x 4 3 1 x x x x 2 2 x x
+x 7 x 2 4 3 x x x 5 x 1 1 x x x x 5 x x x x 3 x x 4 x 4 7 x 3 x 6 6 x x x x x 7 4 4 x x x 3 x 5 x x
+x 9 8 7 7 6 x x 5 x 7 4 x x 7 x x 7 x x 4 10 6 x x 1 x 6 5 x x x 10 x x x x 7 x x 7 x x x x 6 7 8 x x
+x 7 3 x 4 1 5 3 x 7 x x 1 x 2 x x 5 x x 4 x 3 x x x x x 7 x 3 x 6 4 x x x 6 x 7 4 3 x x x x 2 5 x x
+x 7 4 3 3 4 x 2 1 4 x x x x x x x x x x 5 x 3 x x x x 3 8 x 4 x 7 x x x x 3 x x x x x x x 2 x 4 x x
+x x 2 3 x 2 4 3 1 x 1 x x x 1 x x 4 x x x 6 2 x x x x 4 6 x 2 x 5 x x x x x x 6 3 4 x x x 2 x 5 x x
+40000 x x x x x x x x x x x x x x x x x x x x x x x x x x x x 40000 x x x x x 20 x x x x x x x x 20000 x x x x x
+x 7 3 x 4 x x 3 x 7 2 x 1 x x x x x x x x 7 3 x 5 6 x x x x 3 x x 6 x x x 6 x x x 4 x x x x 4 5 x x
+x x x x x x x x x x x x x x x x 1000 x x x x x x x x x x x x x x x x x x x x x x x x x 1000 x x x x x x x
+x x x x x x x x x x x x x x x 1000 x x x x x x x x x x x x x x x x x x x x x x 11 x x x 30 x x x x x x x
+x 8 6 4 3 4 5 x 5 7 5 x 4 x x x x x x x x x 3 x x 8 x 1 x x x x 5 7 x x x 7 x 6 1 3 x x x 2 4 4 x x
+40000 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 3 x x x x x x x x x 20000 x x x 1 x
+x x x x x x x x x x x x x x x x x x x x x x x x x x 50000 x x x x x x x x x x x x x x x x 40000 x x x x x x
+x x 5 6 6 3 7 5 x 4 4 5 x x x x x x x x x 9 5 x x 3 x x 7 x 1 x 6 4 x x x 8 x 9 6 6 x x x 5 6 x x x
+x 12 x x 3 7 x x x 10 x x 6 x 7 x x x x x 9 x x x x 11 x 7 10 x 8 x 11 x x x x 8 x 9 5 7 x x x 4 6 x x x
+x 8 4 3 x 3 6 1 3 6 3 3 2 x 3 x x 3 x x 5 x x x x 7 x 2 8 x x x x x x x x x x x x 2 x x x x 3 x x x
+x x x 1000 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 11 x x x x x x x
+x x x x x x x x x x x x x x 5 x x x x x x x x x x x 15 x x x x x x x x x x x x x x x x 50000 x x x x x x
+x 8 x 6 8 x x x 4 1 x x x x 6 x x 8 x x 3 11 7 x x x x 7 4 x 4 x 9 7 x x x 8 x 11 8 8 x x x 7 8 9 x x
+x x 7 x x x x x x x x x x x x x x x x 50000 x x x x 15 x x x x x x x x x x x x x x x x x x x x x x x x x
+x 8 6 3 4 3 4 1 4 6 x 3 4 x x x x 1 x x x 7 2 x x 7 x x 6 x x x 6 x x x x 6 x 5 x x x x x x 3 x x x
+x x x 9 x 8 2 7 7 5 7 8 6 x x x x x x x 7 10 8 x x 4 x 6 x x 8 x 6 10 x x x 8 x x 8 x x x x 8 5 x x x
+x x x x x x x x x x x x x 40000 x x x x x x x x x x x x x x x x x 40000 x x x 40000 x x x x x x x x x x x x x 40000
+x 4 x 5 5 4 6 5 3 x 3 4 2 x 3 x x x x x 1 8 x x x 4 x x 8 x x x 5 3 x x x 7 x x x 6 x x x 4 x 7 x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 40000 x x x x x x 7 x x x x x x x x x x x x 11
+x x 7 x 8 7 8 7 6 10 6 7 5 x x x x 5 x x 6 11 x x x 9 x 6 6 x 5 x x 4 x x x x x 11 6 x x x x x 8 9 x x
+x x x 8 7 3 x 5 6 x 4 x x x 6 x x 7 x x 4 x x x x 7 x x 10 x 3 x 4 x x x x x x 9 8 6 x x x 7 6 7 x x
+40000 x x x x x x x x x x x x x x x x x 3 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 3 x
+x x x x x x x x x x x x x 20 x x x x x x x x x x x x x x x 40000 x x x x x x x x x x x x x x 20000 x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 7 x x x x x x x x x x x x 20000 x x x x 5
+x x x 6 5 x 9 5 x 7 6 3 x x 6 x x 7 x x 8 8 x x x 8 x 6 8 x 7 x x x x x x x x x x 6 x x x 5 7 7 x x
+x x x x x x x x x x x x x x x x 11 x x x x x x x x x x x x x x x x x x x x x x x 1000 x x x x x x x x x
+x 11 4 8 6 6 x 4 7 x 7 x 6 x x x x 6 x x 9 9 x x x 11 x 5 x x x x 11 9 x x x x x x x x x x 100000 x 6 x x x
+x 7 x x x x 6 3 4 7 4 x 3 x x x x 1 x x 6 5 x x x 8 x x 8 x x x 6 8 x x x x 1000 x x x x x x 1 5 5 x x
+x 6 x x 4 3 6 1 4 x 3 x 4 x 4 x x 3 x x 6 7 2 x x 8 x x x x 6 x x 6 x x x 6 x x x x x x x x 1 3 x x
+x x x x x x x x x x x x x x x 1000 30 x x x x x x 11 x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x 40000 x x x x 50000 x x x x x x x x x x x x x x x x x x x x x x x x x
+20000 x x x x x x x x x x x x 20000 x x x x 20000 x x x x x x x x x x x x x x x x 20000 20000 x x 100000 x x x x x x x x 20000 x
+x 8 x x 1 4 6 x 3 6 x 2 2 x x x x 2 x x 5 4 x x x 7 x x 8 x 4 x x 7 x x x 5 x x 1 x x x x x 4 6 x x
+x 7 5 6 3 x 7 2 x 7 2 x x x 4 x x 4 x x 6 6 3 x x 8 x 3 5 x x x 8 6 x x x 7 x 6 5 1 x x x 4 x 4 x x
+x x 5 x 7 4 7 2 5 8 5 4 5 x 5 x x 4 x x x x x x x 9 x x x x 7 x 9 7 x x x 7 x x 5 3 x x x 6 4 x x x
+x x x x x x x x x x x x x x x x x x 1 x x x x x x x x x x x x x x x 3 x x x x x x x x x 20000 x x x x x
+40000 x x x x x x x x x x x x x x x x x x x x x x x x x x x x 40000 x 11 x x x x 5 x x x x x x x x x x x x x

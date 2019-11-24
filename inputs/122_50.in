@@ -1,0 +1,55 @@
+50
+25
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+0
+x x x x x x x x x x x x x x 345876 x x x x x x x x x x x x x x x x x x x x 549387 x x x x x x x x x x x x x x 
+x x x x x x x x x 794284 477618 x x x x x x x 668257 x x x x x x x x x x x x x x x x 400883 x x x x x x x x x x x x x x 
+x x x x x x x x 292536 93607 x 206873 x x x x x x x x x x x x x x x x x x x x x x x x x x 103026 x x x x 544995 x x x x x x 
+x x x x x x x x x x x x x x x x x x 364514 x x x x x x x x x x 140675 x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x 1192559 x x x x x x x x x 1081696 x x x x x x 627811 x 588619 x x x x x x x x 
+x x x x x x 544772 548135 x x x x x x 452301 x x x x x x x x x 204589 x x 496715 x x x x x x x 453366 x x 527035 x 617777 440363 x x x x x x x x 
+x x x x x 544772 x x x x x 530434 x x x x x x x x x x x 484714 x x x x 946782 640668 902371 x x x x x x x x x x x x x x x x x x x 
+x x x x x 548135 x x x x x x x 514757 x x x x x x x x x x x 595572 x x x x x 984661 x 439766 x x x x x x x 982319 x 842957 x x x x x x 
+x x 292536 x x x x x x 361117 x 162575 x 699995 x x x x x x x x x x 179707 x 261042 x 331557 x x x x x x x 539935 x x x x x x x x x 283636 x x x 
+x 794284 93607 x x x x x 361117 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 875673 x x x x x x x 
+x 477618 x x x x x x x x x x 380313 x x x x x 474466 x 264887 x x x x x x x x x x x x x x x x x x x x x x 464336 x x x x x x 
+x x 206873 x x x 530434 x 162575 x x x x x x x x x x x x x x x x x x x x x 371948 x x x x x x x x x x x x x x x 215228 x x x 
+x x x x x x x x x x 380313 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 620266 x x x 598575 
+x x x x x x x 514757 699995 x x x x x x 766259 x x x x x 674545 x x x x x x x x x x x x x x x x x x x x x x x x x 335127 x x 
+345876 x x x x 452301 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 184206 x x x x x x 
+x x x x x x x x x x x x x 766259 x x x 398171 x x x x x x x x x x x x x 1124358 69467 x x 288618 x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x 553247 x x x x 655276 x x 595240 573031 x x x x x x x x 458849 x x 688834 x x x x x x 253501 219088 x x 
+x x x x x x x x x x x x x x x 398171 x x x x x x x x x x x x x x x x x x x x x x 357224 x x x x x x x x x x x 
+x 668257 x 364514 x x x x x x 474466 x x x x x 553247 x x x x 72804 x x x x x x x x x x x x x x x x x x x x x x x 639954 x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 247031 x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x 264887 x x x x x x x x x x x x x x x x x 679601 x x x x 247658 x x 199699 x x x x x x x x x x x x x 
+x x x x x x x x x x x x x 674545 x x x x 72804 x x x x x x x x x x x x x x x x x x x x x x x 714407 x x 677041 x x x x 
+x x x x 1192559 x x x x x x x x x x x x x x x x x x 95434 x x x x x x x x x x x x x 729216 x x x x 877885 x x x x x x x 
+x x x x x x 484714 x x x x x x x x x 655276 x x x x x 95434 x x x x x x x x x x x x x x x x x x x 784018 x x x x x x x 
+x x x x x 204589 x x 179707 x x x x x x x x x x x x x x x x 520731 x x 480640 x x 744229 x x x x 372030 x 322487 x x x x 404180 x x x x x x 
+x x x x x x x 595572 x x x x x x x x x x x x x x x x 520731 x x x x x x x x x x x x 431632 x x x x 307281 680557 368721 x x x x x 
+x x x x x x x x 261042 x x x x x x x 595240 x x x x x x x x x x x x x x x x x 603814 x x x 640853 x x x x x 884025 x x x x x 
+x x x x x 496715 x x x x x x x x x x 573031 x x x x x x x x x x x x x x 1028350 x x x 269894 x x x x x x 759803 x x x 477192 x x x 
+x x x x x x 946782 x 331557 x x x x x x x x x x x 679601 x x x 480640 x x x x x 297264 x x x x x x x x x x 151031 x x x x x x x x 
+x x x 140675 x x 640668 x x x x x x x x x x x x 247031 x x x x x x x x x x x 538576 x x x x x x x x x x x x x x x x x x 
+x x x x x x 902371 x x x x 371948 x x x x x x x x x x x x x x x x 297264 x x x 600920 x x x x x x 390077 x x 1034491 x x x x x x x 
+x x x x x x x 984661 x x x x x x x 1124358 x x x x x x x x 744229 x x 1028350 x 538576 x x x x x x x 535024 x x x x x x x x x x 695007 x 
+x x x x 1081696 x x x x x x x x x x 69467 x x x x x x x x x x x x x x 600920 x x x x x 258474 x x x x x x x 707585 x x x x x 
+x x x x x x x 439766 x x x x x x x x x x x x 247658 x x x x x x x x x x x x x x x x x x x x 611214 x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x 603814 x x x x x x x x x x x x x x x x 658501 x x 500222 x x x 
+549387 400883 x x x 453366 x x x x x x x x x 288618 x x x x x x x x x x x 269894 x x x x x x x x x x 393572 x x x x x x x x x x x 
+x x x x x x x x 539935 x x x x x x x 458849 x x x 199699 x x x 372030 x x x x x x x 258474 x x x x x x x 497822 x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x 729216 x x 431632 x x x x x 535024 x x x x x x x x x x x 267092 x x x 238703 x x 
+x x 103026 x x 527035 x x x x x x x x x x x 357224 x x x x x x 322487 x 640853 x x x x x x x x 393572 x x x x 820289 x x x 774042 x x x x x 
+x x x x 627811 x x x x x x x x x x x 688834 x x x x x x x x x x x x x 390077 x x x x x x x x x x x x x x x x 494166 x x 
+x x x x x 617777 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 497822 x 820289 x x x x x x x 574208 x 154282 x 
+x x x x 588619 440363 x 982319 x x x x x x x x x x x x x x x x x x x x 151031 x x x x 611214 x x x x x x x x x x x x x x x x 
+x x x x x x x x x 875673 x x x x x x x x x x x 714407 877885 784018 x 307281 x 759803 x x 1034491 x x x x x x x x x x x x x 130811 x 552252 488382 x x 
+x x 544995 x x x x 842957 x x 464336 x x x 184206 x x x x x x x x x 404180 680557 x x x x x x x x 658501 x x 267092 x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x 368721 884025 x x x x x 707585 x x x x x 774042 x x x 130811 x x x x x x x 
+x x x x x x x x x x x x 620266 x x x x x 639954 x x 677041 x x x x x x x x x x x x x x x x x x x x x x x x x x x 495180 
+x x x x x x x x 283636 x x 215228 x x x x 253501 x x x x x x x x x x 477192 x x x x x x 500222 x x x x x 574208 x 552252 x x x x x 420654 x 
+x x x x x x x x x x x x x 335127 x x 219088 x x x x x x x x x x x x x x x x x x x x 238703 x 494166 x x 488382 x x x x x x x 
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 695007 x x x x x x x x 154282 x x x x x 420654 x x x 
+x x x x x x x x x x x x 598575 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 495180 x x x x 

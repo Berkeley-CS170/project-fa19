@@ -1,0 +1,20 @@
+15
+12
+A B C D E F G H I J K L M N O
+B C D E F H I J L M N O
+A
+x x x x 2 4 x x x x x x x x x
+x x x x x 3 x x x x 6 x x x x
+x x x x x x 5 x x 6 x x x x x
+x x x x x x 3 x x x x x x x x
+2 x x x x x x x x 7 x x x x x
+4 3 x x x x x x 3 x x x x x x
+x x 5 3 x x x 1 x x x 2 x x x
+x x x x x x 1 x x 5 x x x x x
+x x x x x 3 x x x x x x 4 x x
+x x 6 x 7 x x 5 x x x x 2 x x
+x 6 x x x x x x x x x 2 x 3 x
+x x x x x x 2 x x x 2 x x x 1
+x x x x x x x x 4 2 x x x 2 x
+x x x x x x x x x x 3 x 2 x 1
+x x x x x x x x x x x 1 x 1 x

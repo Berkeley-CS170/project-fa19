@@ -1,0 +1,55 @@
+50
+15
+LOC0 LOC1 LOC2 LOC3 LOC4 LOC5 LOC6 LOC7 LOC8 LOC9 LOC10 LOC11 LOC12 LOC13 LOC14 LOC15 LOC16 LOC17 LOC18 LOC19 LOC20 LOC21 LOC22 LOC23 LOC24 LOC25 LOC26 LOC27 LOC28 LOC29 LOC30 LOC31 LOC32 LOC33 LOC34 LOC35 LOC36 LOC37 LOC38 LOC39 LOC40 LOC41 LOC42 LOC43 LOC44 LOC45 LOC46 LOC47 LOC48 LOC49
+LOC11 LOC39 LOC46 LOC48 LOC40 LOC49 LOC2 LOC38 LOC3 LOC5 LOC18 LOC31 LOC14 LOC42 LOC45
+LOC8
+x 6.0 3.0 x x x x 6.0 x x x x 14.0 x x x x 10.0 14.0 4.0 13.0 x x x x x x x x x 14.0 x x x 15.0 x 1.0 1.0 8.0 x 14.0 4.0 x x x x x x 10.0 2.0
+6.0 x x x x x x x x x x 11.0 x x x x x x x 9.0 x 20.0 10.0 x x x x 8.0 x x x x x 16.0 17.0 x x x x 15.0 16.0 5.0 x x x x x 4.0 9.0 x
+3.0 x x x x x x x x x x 8.0 x x x 7.0 x x x x x x x 6.0 x x x 8.0 x x x x x x x x x 4.0 5.0 x x 1.0 8.0 3.0 x x 6.0 x x 1.0
+x x x x x x x 14.0 x x x x 18.0 x x x x x x x 18.0 x x 9.0 2.0 x x x 18.0 x 6.0 10.0 x x 21.0 x x 9.0 14.0 x x x x 6.0 x x x 10.0 9.0 x
+x x x x x x x 7.0 x x x 2.0 x x x 8.0 x x x 7.0 x x x x x x x x x x 13.0 x x x x x x 2.0 x x x x 2.0 x x x x 5.0 x x
+x x x x x x 12.0 x x x x x x x x x 16.0 x x x x 21.0 x x 17.0 15.0 x x x 6.0 17.0 x x x x x x x x 6.0 x x x x 17.0 x x 5.0 x x
+x x x x x 12.0 x x 2.0 x x x x x x x x x 14.0 x x x x 10.0 x x 1.0 x 19.0 x x x x x x x x x x x 14.0 10.0 12.0 x x 4.0 x x x x
+6.0 x x 14.0 7.0 x x x 10.0 19.0 16.0 9.0 x x x x x x x x x x x x x 13.0 x x x x 10.0 x x x x x x 5.0 x x x x x x x x x x x x
+x x x x x x 2.0 10.0 x x 7.0 x x x x x x x x 15.0 x x x x x 17.0 3.0 x x 16.0 18.0 x x x x x x x x x x x x x x x x x 3.0 x
+x x x x x x x 19.0 x x 3.0 x x x x x 10.0 x 14.0 x x 18.0 x x x 12.0 x x x x x x 4.0 x 17.0 16.0 x x x x x x x x x x x x x x
+x x x x x x x 16.0 7.0 3.0 x x x 6.0 x x x 2.0 x x x x 17.0 x x 15.0 x 12.0 x x x x x x x 17.0 x 11.0 15.0 21.0 x x 7.0 x x 13.0 x x x x
+x 11.0 8.0 x 2.0 x x 9.0 x x x x x x 15.0 10.0 x x x x x 23.0 x x x x x x 7.0 8.0 x x x x x x x x x 18.0 x x 4.0 x x x x 7.0 x 7.0
+14.0 x x 18.0 x x x x x x x x x x 11.0 9.0 x 11.0 x x x 26.0 x x x x 9.0 11.0 x x 12.0 x x 16.0 x 18.0 x x x x 22.0 x x 16.0 14.0 x x x x x
+x x x x x x x x x x 6.0 x x x x 18.0 x 4.0 x x x x x x x x x 18.0 15.0 x x x 13.0 x x x x x x x x x x 9.0 x x x x 16.0 12.0
+x x x x x x x x x x x 15.0 11.0 x x x 5.0 x x x x x 18.0 x 5.0 x 2.0 x x 11.0 x 13.0 1.0 x x x x x x x x 13.0 x x x x x x 2.0 x
+x x 7.0 x 8.0 x x x x x x 10.0 9.0 18.0 x x 13.0 x x 1.0 18.0 22.0 13.0 x x x x x 7.0 x x x 9.0 x x x x x 12.0 x x x x x x x x x x 6.0
+x x x x x 16.0 x x x 10.0 x x x x 5.0 13.0 x 15.0 x x x x x 14.0 9.0 x x 11.0 x 16.0 15.0 x 6.0 6.0 18.0 x x x x x x x x x 23.0 x x x 3.0 x
+10.0 x x x x x x x x x 2.0 x 11.0 4.0 x x 15.0 x x 14.0 x x x x x x x x x x x x 9.0 x x x x x x x 19.0 10.0 x x x x x 8.0 12.0 8.0
+14.0 x x x x x 14.0 x x 14.0 x x x x x x x x x x x x 16.0 x x x 13.0 19.0 x x x x 10.0 x x x x x x x x x x x 15.0 x x x x x
+4.0 9.0 x x 7.0 x x x 15.0 x x x x x x 1.0 x 14.0 x x x x 13.0 x x 16.0 x 1.0 8.0 x x 6.0 x x x x 5.0 x x x x x 5.0 x x x 13.0 x x 6.0
+13.0 x x 18.0 x x x x x x x x x x x 18.0 x x x x x x x 16.0 16.0 x 23.0 x 19.0 x x x 22.0 27.0 x x x 14.0 21.0 x x x x x x x x x 23.0 x
+x 20.0 x x x 21.0 x x x 18.0 x 23.0 26.0 x x 22.0 x x x x x x x x x x 25.0 23.0 x x 32.0 x x x x x x x x x x x x x x x x 16.0 25.0 x
+x 10.0 x x x x x x x x 17.0 x x x 18.0 13.0 x x 16.0 13.0 x x x x x x x x 20.0 x 21.0 x x x x x x x 11.0 x x 5.0 x x x x x x x 7.0
+x x 6.0 9.0 x x 10.0 x x x x x x x x x 14.0 x x x 16.0 x x x 11.0 15.0 x 8.0 x x x x x x x 10.0 x x x x x x x x x x 12.0 5.0 x x
+x x x 2.0 x 17.0 x x x x x x x x 5.0 x 9.0 x x x 16.0 x x 11.0 x x 7.0 x x x x 12.0 x 11.0 x x x x x x 16.0 x 13.0 x x 10.0 x x x x
+x x x x x 15.0 x 13.0 17.0 12.0 15.0 x x x x x x x x 16.0 x x x 15.0 x x x 17.0 8.0 x x x x x x x 11.0 13.0 x x x x x 14.0 x 14.0 x 10.0 19.0 x
+x x x x x x 1.0 x 3.0 x x x 9.0 x 2.0 x x x 13.0 x 23.0 25.0 x x 7.0 x x x 19.0 13.0 x x x 7.0 x x 11.0 x 13.0 x x x x x x x 16.0 x x x
+x 8.0 8.0 x x x x x x x 12.0 x 11.0 18.0 x x 11.0 x 19.0 1.0 x 23.0 x 8.0 x 17.0 x x 9.0 x x 7.0 11.0 x x x x x x x x x x x 12.0 x x x x x
+x x x 18.0 x x 19.0 x x x x 7.0 x 15.0 x 7.0 x x x 8.0 19.0 x 20.0 x x 8.0 19.0 9.0 x 15.0 12.0 x x 25.0 x x x x x x x x x 17.0 x 15.0 x x x 13.0
+x x x x x 6.0 x x 16.0 x x 8.0 x x 11.0 x 16.0 x x x x x x x x x 13.0 x 15.0 x x x 12.0 x x x x x x 12.0 x x x x 23.0 x x x x 11.0
+14.0 x x 6.0 13.0 17.0 x 10.0 18.0 x x x 12.0 x x x 15.0 x x x x 32.0 21.0 x x x x x 12.0 x x x x x 27.0 x x 15.0 x 11.0 x x x x x x x 16.0 x x
+x x x 10.0 x x x x x x x x x x 13.0 x x x x 6.0 x x x x 12.0 x x 7.0 x x x x x x x x 1.0 x x x x 2.0 x x x x 7.0 x 11.0 x
+x x x x x x x x x 4.0 x x x 13.0 1.0 9.0 6.0 9.0 10.0 x 22.0 x x x x x x 11.0 x 12.0 x x x x 13.0 x x x x x x x x x x x x x x x
+x 16.0 x x x x x x x x x x 16.0 x x x 6.0 x x x 27.0 x x x 11.0 x 7.0 x 25.0 x x x x x x 6.0 15.0 x x 20.0 x x x x 29.0 x x x x x
+15.0 17.0 x 21.0 x x x x x 17.0 x x x x x x 18.0 x x x x x x x x x x x x x 27.0 x 13.0 x x x x x x x 3.0 x x x x 19.0 x x x 13.0
+x x x x x x x x x 16.0 17.0 x 18.0 x x x x x x x x x x 10.0 x x x x x x x x x 6.0 x x x x 4.0 x x 6.0 x x x 4.0 x x 9.0 x
+1.0 x x x x x x x x x x x x x x x x x x 5.0 x x x x x 11.0 11.0 x x x x 1.0 x 15.0 x x x x x x x x x x x 6.0 x 1.0 x x
+1.0 x 4.0 9.0 2.0 x x 5.0 x x 11.0 x x x x x x x x x 14.0 x x x x 13.0 x x x x 15.0 x x x x x x x x x 15.0 5.0 x x x 4.0 10.0 3.0 x x
+8.0 x 5.0 14.0 x x x x x x 15.0 x x x x 12.0 x x x x 21.0 x 11.0 x x x 13.0 x x x x x x x x 4.0 x x x x x x 8.0 x x x 11.0 x x 6.0
+x 15.0 x x x 6.0 x x x x 21.0 18.0 x x x x x x x x x x x x x x x x x 12.0 11.0 x x 20.0 x x x x x x x x 18.0 8.0 x x 14.0 x x x
+14.0 16.0 x x x x 14.0 x x x x x 22.0 x x x x 19.0 x x x x x x 16.0 x x x x x x x x x 3.0 x x 15.0 x x x x x x 15.0 18.0 x 12.0 x x
+4.0 5.0 1.0 x x x 10.0 x x x x x x x 13.0 x x 10.0 x x x x 5.0 x x x x x x x x 2.0 x x x 6.0 x 5.0 x x x x 9.0 x x x x 2.0 x x
+x x 8.0 x 2.0 x 12.0 x x x 7.0 4.0 x x x x x x x 5.0 x x x x 13.0 x x x x x x x x x x x x x 8.0 18.0 x 9.0 x x x 8.0 x 7.0 x x
+x x 3.0 6.0 x x x x x x x x 16.0 9.0 x x x x x x x x x x x 14.0 x x 17.0 x x x x x x x x x x 8.0 x x x x x 2.0 x x 7.0 x
+x x x x x 17.0 x x x x x x 14.0 x x x 23.0 x 15.0 x x x x x x x x 12.0 x 23.0 x x x 29.0 x x x x x x 15.0 x x x x x x x x x
+x x x x x x 4.0 x x x 13.0 x x x x x x x x x x x x x 10.0 14.0 x x 15.0 x x x x x 19.0 4.0 6.0 4.0 x x 18.0 x 8.0 2.0 x x x x x x
+x x 6.0 x x x x x x x x x x x x x x x x 13.0 x x x 12.0 x x 16.0 x x x x 7.0 x x x x x 10.0 11.0 14.0 x x x x x x x 7.0 x x
+x 4.0 x 10.0 5.0 5.0 x x x x x 7.0 x x x x x 8.0 x x x 16.0 x 5.0 x 10.0 x x x x 16.0 x x x x x 1.0 3.0 x x 12.0 2.0 7.0 x x x 7.0 x x x
+10.0 9.0 x 9.0 x x x x 3.0 x x x x 16.0 2.0 x 3.0 12.0 x x 23.0 25.0 x x x 19.0 x x x x x 11.0 x x x 9.0 x x x x x x x 7.0 x x x x x x
+2.0 x 1.0 x x x x x x x x 7.0 x 12.0 x 6.0 x 8.0 x 6.0 x x 7.0 x x x x x 13.0 11.0 x x x x 13.0 x x x 6.0 x x x x x x x x x x x

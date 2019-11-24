@@ -1,0 +1,30 @@
+25
+4
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+3 14 20 23
+0
+x 1.00000 x x 2.00000 x x 1999999999.99999 x x x x x 2.00000 x x x x x x x x x x 1.00000
+1.00000 x 1999999999.99999 x x x x x 1.00000 x x x x x x x x x x x x x x x x
+x 1999999999.99999 x 1999999999.99999 x x x x x x x x x x x x x x x x x x x x x
+x x 1999999999.99999 x x x x x x x x x x x x x x x x x x x x x x
+2.00000 x x x x 1.50000 1.00000 x x x x x x x x x x x x x x x x x x
+x x x x 1.50000 x 1.00000 x x x x x 20.00000 x x x x x x x x x x x x
+x x x x 1.00000 1.00000 x x x x x x x 2.00000 x x x x x x x x x x x
+1999999999.99999 x x x x x x x x x x x x x x x x x x x x x x x x
+x 1.00000 x x x x x x x 1.00000 x x x x x x x x x x x x x x x
+x x x x x x x x 1.00000 x 1.00000 x x x x x x x x x x x x x x
+x x x x x x x x x 1.00000 x 20.00000 x x 1.00000 x x x x x x x x x x
+x x x x x x x x x x 20.00000 x 4.00000 x x x x x x x x x x x x
+x x x x x 20.00000 x x x x x 4.00000 x x x 3.00000 3.00000 3.00000 x x x x x x x
+2.00000 x x x x x 2.00000 x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x 1.00000 x x x x x x x x x x x x x x
+x x x x x x x x x x x x 3.00000 x x x 3.00000 x x x x x 1.00000 x x
+x x x x x x x x x x x x 3.00000 x x 3.00000 x 3.00000 5.00000 x x x x x x
+x x x x x x x x x x x x 3.00000 x x x 3.00000 x x x x x x x x
+x x x x x x x x x x x x x x x x 5.00000 x x 10.00000 x x x x x
+x x x x x x x x x x x x x x x x x x 10.00000 x 15.00000 x x x x
+x x x x x x x x x x x x x x x x x x x 15.00000 x 1999999999.99999 x x x
+x x x x x x x x x x x x x x x x x x x x 1999999999.99999 x x x x
+x x x x x x x x x x x x x x x 1.00000 x x x x x x x 420.00000 x
+x x x x x x x x x x x x x x x x x x x x x x 420.00000 x 420.00000
+1.00000 x x x x x x x x x x x x x x x x x x x x x x 420.00000 x

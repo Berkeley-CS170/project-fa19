@@ -1,0 +1,55 @@
+50
+25
+A0 A1 A2 A3 A4 A5 A6 A7 A8 A9 B0 B1 B2 B3 B4 B5 B6 B7 B8 B9 C0 C1 C2 C3 C4 C5 C6 C7 C8 C9 D0 D1 D2 D3 D4 D5 D6 D7 D8 D9 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9
+D0 E3 B9 E7 D3 A5 C2 E9 D4 B8 A8 D5 E2 C7 A1 C0 D8 C3 A4 E1 A3 A6 A2 C1 C5
+C8
+x 24.92 x 25.66 x x x x x x 26.03 x x x x 26.75 x x x x x 24.69 x x 24.26 x 28.61 x x 28.6 x x 21.8 x x x x x 29.16 22.93 x 26.79 29.37 x x 28.27 x x x x
+24.92 x x x x x 28.89 x x x x x x x 21.39 x x x x 29.01 x x x 23.08 23.28 20.16 x x 24.9 23.23 28.46 x x x x x x x x x x x x x 24.55 x x x x x
+x x x x x 29.87 25.07 x x x x x x x x x x x x x x x x 23.58 x x 26.96 x x x x x x x x x x 22.17 x x x 22.81 x x x x x x x x
+25.66 x x x x x x x 29.3 x 22.33 x x x x x 26.92 x x x x x x x x x 26.63 20.34 x x 22.12 x x x x x x x x x x x 27.04 x x 24.42 x x x x
+x x x x x 24.79 x x x x x x x x x x x x x 26.91 x x x x x x x x x 21.56 x x x x 21.27 24.09 20.08 x x x 25.71 25.59 27.32 x 20.89 x x 21.8 x x
+x x 29.87 x 24.79 x x x x 27.24 x x x x x x x x 22.97 26.65 x 21.45 x x x x x x x 28.3 x x x x 20.2 x x x x x x x x x x x x x x x
+x 28.89 25.07 x x x x x x x 29 x x x x 27.09 x x 26.38 x x x x x x x x 28.56 x x 26.42 x x x x 24.72 x x x x x x x x x 25.12 25.87 x 28.17 x
+x x x x x x x x x x x x x x x 26.66 x 27.39 x 27.81 x 24.29 x x x x x x x x x x x x x x x x 22.83 x x x x 28.13 x x x x x x
+x x x 29.3 x x x x x 29.23 x x x x 29.19 x x x x x x x 25.52 20.67 x 24.53 x x 22.44 x x x x x x x x x x x x x 26.12 x x x x x 24.62 x
+x x x x x 27.24 x x 29.23 x x 20.39 x x x x x x x x x 21.55 24.31 x 21.62 x x x x x x x x x 27.67 x x 20.84 x x x x x x x x 25.65 x x x
+26.03 x x 22.33 x x 29 x x x x x x x 25.55 x x x x 27.81 x x x x 26.91 x x x x x x x 21.33 x 23.97 x x x x x x x 27.64 23.93 x x x x x x
+x x x x x x x x x 20.39 x x 24.37 x x x x x x x 23.07 x 20.71 x x 25.03 x x x x x x x x x x 21.99 22.17 x 26.3 x x x x x 21.34 x x x x
+x x x x x x x x x x x 24.37 x x x x 29.5 x x x x x x x 20.82 x 20.39 x 21.06 x x x x x x x x x x x x x x x x x x x 29.59 x
+x x x x x x x x x x x x x x x x 25.95 x 20.53 x 25.25 x x 26.63 x x x 23.58 x x x x x x x x 20.6 x x x x x x x x x x 20.11 x x
+x 21.39 x x x x x x 29.19 x 25.55 x x x x x 27.26 20.48 28.92 x 22.16 x x x x x x x x x x x x x x 21.83 21.46 x x x x x x 29.54 x x x x x x
+26.75 x x x x x 27.09 26.66 x x x x x x x x x x x x 21.23 x x x x x x x x 21.79 25.16 x 22.13 x x x x x x 26.75 x x 22.51 20.17 27.87 28.9 x x x x
+x x x 26.92 x x x x x x x x 29.5 25.95 27.26 x x x x x x 26.36 x 22.12 x x 22.31 x 29.02 x 26.72 x x 24.72 x x x x x x x x 24.7 26.62 29.94 x x x x x
+x x x x x x x 27.39 x x x x x x 20.48 x x x x x x x x x x 22.02 x x x x x x x x x x x x 22.54 25.25 x x x x x x x x x x
+x x x x x 22.97 26.38 x x x x x x 20.53 28.92 x x x x x x 27.65 x x x x 29.67 x x x x x x 26.61 x x x x x x 21.33 x x 24.86 x x x x x x
+x 29.01 x x 26.91 26.65 x 27.81 x x 27.81 x x x x x x x x x x x 26.49 24.69 x x x 21.06 x x x x 26.91 x 29.17 22.43 25.9 x 22.2 20.63 20.99 x x x x x x x x x
+x x x x x x x x x x x 23.07 x 25.25 22.16 21.23 x x x x x x x x x x x x x x 21.48 x x x x x 25.39 x x x x 22.73 25.23 x 28.97 x x 20.71 x x
+24.69 x x x x 21.45 x 24.29 x 21.55 x x x x x x 26.36 x 27.65 x x x x 21.14 x 23.54 x x x x x x 27.95 x x x 21.42 x x 29.91 x x x x x x x x x x
+x x x x x x x x 25.52 24.31 x 20.71 x x x x x x x 26.49 x x x x x 27.52 x x x x 24.7 x x x x 29.53 x x x x x x x 24.15 x x x x x x
+x 23.08 23.58 x x x x x 20.67 x x x x 26.63 x x 22.12 x x 24.69 x 21.14 x x x x x x x x 24.55 x x x x 29.92 x x x x x 22.31 24.19 x x x x x x x
+24.26 23.28 x x x x x x x 21.62 26.91 x 20.82 x x x x x x x x x x x x x x x x x x x x x x x x x 25.85 x x x 20.13 x x x x x x x
+x 20.16 x x x x x x 24.53 x x 25.03 x x x x x 22.02 x x x 23.54 27.52 x x x x 29.59 x 21.2 x x x x x x x 20.29 x 20.5 x 24.95 22.52 x x x x x x x
+28.61 x 26.96 26.63 x x x x x x x x 20.39 x x x 22.31 x 29.67 x x x x x x x x x x 21.65 x x x x x x x x x x 21.14 x x x x x x x x x
+x x x 20.34 x x 28.56 x x x x x x 23.58 x x x x x 21.06 x x x x x 29.59 x x x x 23.63 x x x x x x x x 27.43 x x x x x x x 22.41 x x
+x 24.9 x x x x x x 22.44 x x x 21.06 x x x 29.02 x x x x x x x x x x x x x x x x 28.07 x 23.51 25.58 x x x 27.46 x x x 20.13 x 22.29 x x x
+28.6 23.23 x x 21.56 28.3 x x x x x x x x x 21.79 x x x x x x x x x 21.2 21.65 x x x 29.79 x x x x x 20.05 x 27.08 22.83 x x 23.57 20.09 26.11 x x x 26.56 x
+x 28.46 x 22.12 x x 26.42 x x x x x x x x 25.16 26.72 x x x 21.48 x 24.7 24.55 x x x 23.63 x 29.79 x x 28.28 x x 29.35 x x x x x x x x 27.34 x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 29.11
+21.8 x x x x x x x x x 21.33 x x x x 22.13 x x x 26.91 x 27.95 x x x x x x x x 28.28 x x x x x x 25.98 x x x x x x 26.71 x 21.98 x 24.86 x
+x x x x x x x x x x x x x x x x 24.72 x 26.61 x x x x x x x x x 28.07 x x x x x x x x x x x x 20.17 23.16 x x x x x 26.5 26
+x x x x 21.27 20.2 x x x 27.67 23.97 x x x x x x x x 29.17 x x x x x x x x x x x x x x x x x x x x x x x x x x 21.95 x x x
+x x x x 24.09 x 24.72 x x x x x x x 21.83 x x x x 22.43 x x 29.53 29.92 x x x x 23.51 x 29.35 x x x x x x x 26.21 x x x x x 25.04 x 20.19 25.5 29.6 x
+x x x x 20.08 x x x x x x 21.99 x 20.6 21.46 x x x x 25.9 25.39 21.42 x x x x x x 25.58 20.05 x x x x x x x x 27.11 x x x x x x x x x x x
+x x 22.17 x x x x x x 20.84 x 22.17 x x x x x x x x x x x x x 20.29 x x x x x x 25.98 x x x x x 26.26 x 28.15 x x x x x x x x x
+29.16 x x x x x x 22.83 x x x x x x x x x 22.54 x 22.2 x x x x 25.85 x x x x 27.08 x x x x x 26.21 27.11 26.26 x x x x 25.64 29.75 x x 29.07 x x x
+22.93 x x x x x x x x x x 26.3 x x x 26.75 x 25.25 x 20.63 x 29.91 x x x 20.5 x 27.43 x 22.83 x x x x x x x x x x 29.69 21.46 29.47 21.08 x x x x x x
+x x x x 25.71 x x x x x x x x x x x x x 21.33 20.99 x x x x x x 21.14 x 27.46 x x x x x x x x 28.15 x 29.69 x 27.37 x x x x x x x x
+26.79 x 22.81 x 25.59 x x x x x x x x x x x x x x x 22.73 x x 22.31 x 24.95 x x x x x x x 20.17 x x x x x 21.46 27.37 x 22.75 x x x 22.08 x x x
+29.37 x x 27.04 27.32 x x x 26.12 x 27.64 x x x x 22.51 24.7 x x x 25.23 x x 24.19 20.13 22.52 x x x 23.57 x x x 23.16 x x x x 25.64 29.47 x 22.75 x x x x x x x x
+x x x x x x x 28.13 x x 23.93 x x x 29.54 20.17 26.62 x 24.86 x x x 24.15 x x x x x x 20.09 x x x x x x x x 29.75 21.08 x x x x x x x x 23.36 x
+x 24.55 x x 20.89 x x x x x x x x x x 27.87 29.94 x x x 28.97 x x x x x x x 20.13 26.11 27.34 x 26.71 x x 25.04 x x x x x x x x x x x 22.25 x x
+28.27 x x 24.42 x x 25.12 x x x x 21.34 x x x 28.9 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 25.87 x x 25.65 x x x x x x x x x x x x x x x x x x 22.29 x x x 21.98 x 21.95 20.19 x x 29.07 x x 22.08 x x x x x 23.7 24.99 x
+x x x x 21.8 x x x x x x x x 20.11 x x x x x x 20.71 x x x x x x 22.41 x x x x x x x 25.5 x x x x x x x x 22.25 x 23.7 x x x
+x x x x x x 28.17 x 24.62 x x x 29.59 x x x x x x x x x x x x x x x x 26.56 x x 24.86 26.5 x 29.6 x x x x x x x 23.36 x x 24.99 x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 29.11 x 26 x x x x x x x x x x x x x x x x

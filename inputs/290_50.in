@@ -1,0 +1,55 @@
+50
+25
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+1 2 3 4 7 9 13 14 16 19 21 22 23 25 27 28 30 32 35 38 39 42 45 46 49
+0
+x 0.71657 0.66546 0.58653 0.84127 1.45616 0.58215 x x x x x x x x x x x x x x x x x x 1.06011 1.32989 x x x x x x x x 0.67921 x x x x x x x x x x x x x x 
+0.71657 x 1.14900 0.70157 1.07169 1.25862 0.97601 x x x x x x x x 1.36704 x x x x x x x x x x 0.94542 x x x 0.61470 x x x x x x x x x x x x x 0.77141 x 1.17967 x x x 
+0.66546 1.14900 x 1.03864 1.10138 0.80867 0.98820 0.74815 x 1.41567 x x x x x x x x x x x x x x x x x x x x x x x 0.79555 x x x x x x x 1.20296 x x x x x x x x 
+0.58653 0.70157 1.03864 x 1.27472 1.02298 1.09463 0.96485 x x x x x x 0.61512 x x x x x x x x x x x x 1.29211 x x x x x x x x x x x x x 1.18647 x x x x 0.94675 x x x 
+0.84127 1.07169 1.10138 1.27472 x 1.40896 0.89321 x x 1.17197 x 1.00705 x x x x x x x x x x x x x x x x x x x x x 0.97673 x x 1.11016 x x x x x x x x x x x x x 
+1.45616 1.25862 0.80867 1.02298 1.40896 x 1.03164 x x x x x x x x x x x x x x 1.42742 x x x x x x x x x x x x x x x x x x 0.59929 x x x x x x x x 0.98548 
+0.58215 0.97601 0.98820 1.09463 0.89321 1.03164 x x x x 1.20099 x x x x x x x x x 0.93561 x x x x 0.92871 x x x x x x x x x x x x x x x x x x x x x x x x 
+x x 0.74815 0.96485 x x x x 1.36814 1.15749 1.25486 1.13525 0.75790 0.95266 x x x x x x 0.75537 x x x x x x x x 1.01419 x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x 1.36814 x 1.36305 1.46674 0.78718 0.85763 0.98905 x x x x x x x x x x x x x x x 1.43337 x x x x x x x x 1.38226 x x x x x x x x 1.31168 x x 
+x x 1.41567 x 1.17197 x x 1.15749 1.36305 x 1.11438 0.61034 0.53809 1.14658 x x x x x x x x x x x x x x x x x x x x x x x 1.22331 x x 0.86322 x x x x x x x x x 
+x x x x x x 1.20099 1.25486 1.46674 1.11438 x 0.89465 0.82138 1.49964 x x x x x x x x x 0.70502 x x x x x x 0.85848 x x x x x x x x 1.35293 x x x x x x x 0.55713 x x 
+x x x x 1.00705 x x 1.13525 0.78718 0.61034 0.89465 x 0.92529 1.18303 x x x x 1.40822 x 1.11455 x x x x x x x 0.93646 x x x 0.77612 x x x x x x x 0.69334 x x x x 0.83601 x x 0.53925 x 
+x x x x x x x 0.75790 0.85763 0.53809 0.82138 0.92529 x 1.24532 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x 0.95266 0.98905 1.14658 1.49964 1.18303 1.24532 x x x x x x x x x 0.82459 x x x x x x x x x x x 1.07556 x x x x x x 1.41070 x x x x x x x x 
+x x x 0.61512 x x x x x x x x x x x 0.62141 0.95946 1.47612 1.38007 1.46841 0.77466 x x x x x x x x x x x x x x x x x x x x 0.79256 x x x x x x x x 
+x 1.36704 x x x x x x x x x x x x 0.62141 x 0.75343 1.26505 1.17319 1.05445 1.04452 1.37972 x x x x x x x x x x x x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x 0.95946 0.75343 x 1.18889 0.55926 1.39864 1.10826 x x x x x x x x x x x x x 0.85114 x x x x x x 0.73549 x x x x x x x 1.03608 
+x x x x x x x x x x x x x x 1.47612 1.26505 1.18889 x 1.36092 1.22269 1.48831 x x x x 1.12098 x x x x x x x x x 0.56492 x x x x x x x x x x x x x x 
+x x x x x x x x x x x 1.40822 x x 1.38007 1.17319 0.55926 1.36092 x 1.39928 1.25098 x x x x x x 1.17978 x x x x 1.30463 x x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x 1.46841 1.05445 1.39864 1.22269 1.39928 x 1.10033 x x x x x x x x x x 0.69986 x x x x x x 0.55714 x x x x x 1.20823 x x x x 1.25359 
+x x x x x x 0.93561 0.75537 x x x 1.11455 x x 0.77466 1.04452 1.10826 1.48831 1.25098 1.10033 x x x x x x x x x x x x x x x x x x x x x x 1.00087 1.03420 x x x x x x 
+x x x x x 1.42742 x x x x x x x x x 1.37972 x x x x x x 1.25812 1.40223 1.32547 1.03643 0.98628 0.96071 x x x x x 1.23779 x x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x 0.82459 x x x x x x x 1.25812 x 1.40854 0.91762 0.52364 1.07022 0.93819 x x x x x x x x x x x x x x x x x x x x 1.11094 x 
+x x x x x x x x x x 0.70502 x x x x x x x x x x 1.40223 1.40854 x 1.04052 0.98726 1.48456 1.11439 x x 1.21359 x x x x x x x 0.64475 x x 1.06199 x x 1.48565 x 1.22249 x x x 
+x x x x x x x x x x x x x x x x x x x x x 1.32547 0.91762 1.04052 x 0.89177 1.49886 1.25300 x x x x x x x x x x x x x x x x x x x x 1.11072 x 
+1.06011 x x x x x 0.92871 x x x x x x x x x x 1.12098 x x x 1.03643 0.52364 0.98726 0.89177 x 0.87444 1.42056 0.53602 x x x 1.03861 x x x x 0.72701 x x x x x x x x x x x x 
+1.32989 0.94542 x x x x x x x x x x x x x x x x x x x 0.98628 1.07022 1.48456 1.49886 0.87444 x 0.77626 x x x x x x x x x x x x x x x x x x x x x x 
+x x x 1.29211 x x x x x x x x x x x x x x 1.17978 x x 0.96071 0.93819 1.11439 1.25300 1.42056 0.77626 x x x x x x x x x 0.66857 0.77660 x x x x x x x x x x x x 
+x x x x x x x x x x x 0.93646 x x x x x x x x x x x x x 0.53602 x x x 0.61588 1.30882 1.10884 1.11823 0.84830 0.82906 x x x x x x 0.55490 x x x x x x 1.05915 x 
+x x x x x x x 1.01419 1.43337 x x x x x x x x x x x x x x x x x x x 0.61588 x 1.23304 0.79225 0.99020 0.81296 0.65023 x x x x x x x x 0.75126 x 0.78869 x x x x 
+x 0.61470 x x x x x x x x 0.85848 x x x x x x x x x x x x 1.21359 x x x x 1.30882 1.23304 x 0.53148 1.48901 1.44476 1.43133 x x x x x x x x x x x x x x x 
+x x x x x x x x x x x x x x x x x x x 0.69986 x x x x x x x x 1.10884 0.79225 0.53148 x 1.34241 1.08907 1.35542 x x x x x 1.34145 x x x x x x x x x 
+x x x x x x x x x x x 0.77612 x x x x x x 1.30463 x x x x x x 1.03861 x x 1.11823 0.99020 1.48901 1.34241 x 1.34822 0.83876 x x x x x x x 1.07407 x x x x x x x 
+x x 0.79555 x 0.97673 x x x x x x x x x x x x x x x x 1.23779 x x x x x x 0.84830 0.81296 1.44476 1.08907 1.34822 x 0.84590 x 1.41445 x x x 0.54536 x x 0.73340 x x x x x x 
+x x x x x x x x x x x x x 1.07556 x x 0.85114 x x x x x x x x x x x 0.82906 0.65023 1.43133 1.35542 0.83876 0.84590 x x x x x x 0.98530 x x x x x x x x x 
+0.67921 x x x x x x x x x x x x x x x x 0.56492 x x x x x x x x x x x x x x x x x x 0.65948 0.58043 0.69533 0.75135 1.38160 0.67282 x x x x x x x x 
+x x x x 1.11016 x x x x x x x x x x x x x x x x x x x x x x 0.66857 x x x x x 1.41445 x 0.65948 x 0.65078 0.59694 0.53073 1.00022 1.07765 x x x x x x x x 
+x x x x x x x x x 1.22331 x x x x x x x x x x x x x x x 0.72701 x 0.77660 x x x x x x x 0.58043 0.65078 x 0.53163 0.86269 1.46238 0.79644 x x x x x x x x 
+x x x x x x x x 1.38226 x x x x x x x x x x 0.55714 x x x 0.64475 x x x x x x x x x x x 0.69533 0.59694 0.53163 x 0.90477 1.43097 0.66144 x x x x 1.45777 x x x 
+x x x x x x x x x x 1.35293 x x x x x x x x x x x x x x x x x x x x x x x x 0.75135 0.53073 0.86269 0.90477 x 0.86662 0.88840 x x x x x x x x 
+x x x x x 0.59929 x x x 0.86322 x 0.69334 x x x x x x x x x x x x x x x x x x x 1.34145 x 0.54536 0.98530 1.38160 1.00022 1.46238 1.43097 0.86662 x 1.02307 x 0.98985 x x x x x x 
+x x 1.20296 1.18647 x x x x x x x x x 1.41070 0.79256 x 0.73549 x x x x x x 1.06199 x x x x 0.55490 x x x x x x 0.67282 1.07765 0.79644 0.66144 0.88840 1.02307 x x x x 1.17051 x x x x 
+x x x x x x x x x x x x x x x x x x x x 1.00087 x x x x x x x x x x x 1.07407 x x x x x x x x x x 0.67444 0.71203 1.17796 1.29816 1.19966 1.37222 1.33193 
+x x x x x x x x x x x x x x x x x x x x 1.03420 x x x x x x x x 0.75126 x x x 0.73340 x x x x x x 0.98985 x 0.67444 x 1.13439 1.07183 1.46007 0.79723 1.08171 1.29545 
+x 0.77141 x x x x x x x x x x x x x x x x x 1.20823 x x x 1.48565 x x x x x x x x x x x x x x x x x x 0.71203 1.13439 x 1.10622 0.89834 1.47646 0.83816 1.11893 
+x x x x x x x x x x x 0.83601 x x x x x x x x x x x x x x x x x 0.78869 x x x x x x x x x x x 1.17051 1.17796 1.07183 1.10622 x 1.35160 1.33608 0.69159 0.57380 
+x 1.17967 x 0.94675 x x x x x x x x x x x x x x x x x x x 1.22249 x x x x x x x x x x x x x x 1.45777 x x x 1.29816 1.46007 0.89834 1.35160 x 1.21205 1.22292 1.21972 
+x x x x x x x x 1.31168 x 0.55713 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.19966 0.79723 1.47646 1.33608 1.21205 x 1.00024 1.49646 
+x x x x x x x x x x x 0.53925 x x x x x x x x x x 1.11094 x 1.11072 x x x 1.05915 x x x x x x x x x x x x x 1.37222 1.08171 0.83816 0.69159 1.22292 1.00024 x 0.62245 
+x x x x x 0.98548 x x x x x x x x x x 1.03608 x x 1.25359 x x x x x x x x x x x x x x x x x x x x x x 1.33193 1.29545 1.11893 0.57380 1.21972 1.49646 0.62245 x 

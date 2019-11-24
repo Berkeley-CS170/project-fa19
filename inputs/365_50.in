@@ -1,0 +1,55 @@
+50
+13
+Egbertree Bootherlow Emsham Burrerchester Skelhampton Elmey Todderbrough Ciringsmith Hurstside Enlow Watchwang Rotling Wetbury Canningborough Ketley Marlseybrough Clerelow Shaftgrove Soddleney Milwold Burtree Blanhead Egginghall Ciringbury Flitchester Egmansdown Reddledenthorne Emsling Cleremere Fulover Emscompavon Burrerseyley Camborough Worborough Shrivling Skelberover Candlesstanling Falrensbury Chipmerbrook Tipdown Sidensmith Reddendport Cheddendwold Leatherlow Emsmanswold Whithall Bassingcastle Elwich Ribbingrensden Prestbrough
+Bootherlow Skelhampton Todderbrough Ciringsmith Marlseybrough Shaftgrove Soddleney Reddledenthorne Cleremere Fulover Falrensbury Tipdown Sidensmith
+Egbertree
+x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+100.0 x 200.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+100.0 200.0 x 1.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x 1.0 x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x 100.0 100.0 x x x x x 1.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 1000.0 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 1000.0 x x 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x 1.0 500.0 x x x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 500.0 x x x x x 50.0 1.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x 1.0 x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x 100.0 100.0 x x x x x 1.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x 1000.0 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x 1000.0 x x 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x 1.0 500.0 x x x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x 500.0 x x x x x 50.0 1.0 x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x 1.0 x x x 100.0 100.0 x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x 100.0 100.0 x x x x x 1.0 x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1000.0 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1000.0 x x 10.0 x 500.0 x 450.0 x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 500.0 x x x x x 50.0 x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 500.0 x x x x x 50.0 1.0 x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 x x x 100.0 100.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 100.0 x 100.0 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 100.0 100.0 x x x x x 1.0 x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1000.0 10.0 x 500.0 x 450.0 x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1000.0 x x 10.0 x 500.0 x 450.0 x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 10.0 x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 500.0 x x x x x 50.0 x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 500.0 x x x x x 50.0 1.0 x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 450.0 x x x 50.0 x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 x x x 1.0 x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 x 1.0
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.0 x

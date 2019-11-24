@@ -1,0 +1,46 @@
+41
+18
+AlumniHouse BanwayBldg BarkerHall BarrowLane BarrowsHall Campanile CampbellHall CareerCenter ClarkKerr Dwinelle EshlemanHall EyeCenter GreekTheatre HaasPavilion Jacobs Lawrence LeConteHall LowerSproul MemorialGlade MLK Moffitt MorganHall MorrisonHall MosesHall MulfordHall NorthField RSF SatherGate SatherRd SatherTower SeniorHall SproulHall SproulPlaza SutardjaDaiHall TangCenter Unit1 Unit2 Unit3 WursterHall Zellerbach Soda
+Campanile CareerCenter BarkerHall Dwinelle EyeCenter Jacobs LeConteHall MemorialGlade MLK Lawrence MorrisonHall MorganHall MulfordHall SatherRd SproulPlaza SutardjaDaiHall Unit1 WursterHall
+Soda
+x 1 x 1 1 5 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 6.3
+1 x 2 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x 2 x 2 x x x x x 6 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+1 x 2 x x 5 x x x 4 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+1 x x x x x 3 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+5 x x 5 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 5.007
+x x x x 3 x x 6 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 6 x 16 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x 16 x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x 6 4 x x x x 1 x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x 5 1 x x x 1 1 x x x x x x x x x x x x x x x x x x x x x x 20.162
+x x x x x x x x x x 5 x x x x x 5 x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x 1 x x 3 x x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x 3 x 6 x x x x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x 6 x 16 x x x x x x x x x x x x x x x x x x x x x x x x 12.4351
+x x x x x x x x x x x x x x 16 x x x x 1 x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x 1 5 x x x x x x 2 4 x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x 1 x x x x x x x 2 x x x x x x x x x x x x x x x x x x x x x 20.999
+x x x x x x x x x x x x x x x x 2 2 x 6 x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x 1 4 x 6 x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x 2 x x x x x x x 1 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x 2 x 6 x x x 2 x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x 6 x 1 x x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x 1 x 16 x x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x 16 x 6 x x x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x 6 x x 3 x x x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x 2 x x x x x x 5 1 x x x x x x x x x x 1.0004
+x x x x x x x x x x x x x x x x x x x x x x x x x 3 x x x 1 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x 5 x x 5 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x 1 x x x x x 1 1 5 x x x x x x x x x x x .9
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1 x x 1.001 x x x 5 1 4.44
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1 x 2.049 x x x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 2.049 x 6.78 2.01 x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 6.78 x 5.1 1.415 x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.001 x 2.01 5.1 x x x x 5.005 x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1.415 x x 16.172 x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 16.172 x 6.111 x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 6.111 x x x 3.0
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 5 x x x 5.005 x x x x x x
+x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 1 x x x x x x x x x x
+6.3 x x x x 5.007 x x x x 20.162 x x x 12.4351 x x 20.999 x x x x x x x x 1.0004 x x .9 4.44 x x x x x x 3.0 x x x

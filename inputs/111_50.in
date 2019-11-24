@@ -1,0 +1,55 @@
+50
+10
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+0 1 2 3 4 5 6 7 8 9
+0
+x x x 68.87891 x x x x 97.38988 x x x x x x x x x x x x x 89.50406 x x x 64.02615 x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x x x 84.49845 60.62062 x x x x x 61.92649 x x x x 82.04649 x 62.7537 x x x x 78.28633 x x 73.3729 x x 94.21775 x x x x x x 67.11878 x x 63.34387 x 67.47656 x x x x
+x x x x x 91.55427 x x x x x x 90.30839 x 56.4063 x x x 95.70206 x x 76.43456 x x x x x x x x x 65.85335 x x x x x x x 87.82829 x x 84.20225 x x x x x x x
+68.87891 x x x x x 82.66017 x x 80.4145 x 68.89458 x x x x x x 80.6058 x x 55.8763 x x x x x x 65.58909 x x x x x x x x x x x x 92.76232 x x x x x x x x
+x x x x x x x 89.57964 x x x x x x 61.21734 x x x x x 73.81149 x x x x x 72.828 x x x 68.97904 x x x x x x 97.95492 x x x x x x 95.02312 x x x 69.56983 x
+x x 91.55427 x x x 79.36529 x x x x x x x x x x x x x x x x x x x 84.10591 71.46374 x x x 81.16954 x 74.08488 x x x x 53.70092 x x x x x 63.61267 x x x 79.87549 x
+x x x 82.66017 x 79.36529 x x x x x x x x 62.35358 x 65.78761 93.66692 x 95.86744 x x x x x x x 97.03218 x x x x x x x x x x x x x x x x x x 90.27818 96.44677 x x
+x x x x 89.57964 x x x x x x 93.52033 x x x x 86.61162 x 98.14445 x 65.1219 x x x x 69.71759 x x x x x x 73.91609 71.25683 x x x x x x x x 96.87081 x 78.09538 x x x x x
+97.38988 84.49845 x x x x x x x x x x x x 93.47026 x x x 64.66318 81.27551 x x x x x 65.25561 63.9352 x x 62.61413 x 84.09449 x x x x x x x x x x x x x 70.97432 x x x x
+x 60.62062 x 80.4145 x x x x x x x x x x x x x x x x x x x x x 56.48801 x x 79.74939 96.60801 96.52188 66.95007 x x x x x x x 64.70391 x 91.44657 x x x 87.68908 x x x 62.74266
+x x x x x x x x x x x 90.2966 x x x x x x x x x x 68.89862 x x x x x x x x x 65.79267 x x x 89.0049 x x x x x x x 81.13259 x 77.82023 x x 52.03565
+x x x 68.89458 x x x 93.52033 x x 90.2966 x x x 66.03561 x x x x x x x x 95.85361 x x x x x x 68.91757 x x 53.6929 75.49395 x x 72.53738 x 91.70936 x x x x x x 80.2036 83.94749 50.99657 91.56374
+x x 90.30839 x x x x x x x x x x x x x 90.21489 x x x x x x x x 91.15403 x x x x x x x x x 97.59294 x x x x x x x x x 96.37761 x x x x
+x x x x x x x x x x x x x x 94.51222 53.44763 x x x x x x x x x x x x x x x 98.44957 97.65491 x x x 86.03721 96.13599 x x x x 60.75676 x x x x x x x
+x x 56.4063 x 61.21734 x 62.35358 x 93.47026 x x 66.03561 x 94.51222 x x x x 94.32497 x x x x x x x 62.67006 x x x x x x x x 93.37588 x x x x x x 89.19209 x x x x x x x
+x 61.92649 x x x x x x x x x x x 53.44763 x x x 58.97751 72.3139 x x x x x x x x x 63.06516 x x x x x x 73.27354 x x x x x 54.72232 x x x x x x x x
+x x x x x x 65.78761 86.61162 x x x x 90.21489 x x x x x x x x x 73.17779 x x x x x x x x x x x 81.08851 x x x x 94.68928 x x x x 69.56243 x x x x x
+x x x x x x 93.66692 x x x x x x x x 58.97751 x x x 91.19136 x x x x 61.18195 x x x x x x x x x x x x x 65.19504 x x 77.09399 x x 93.73656 x x x 51.37725 x
+x x 95.70206 80.6058 x x x 98.14445 64.66318 x x x x x 94.32497 72.3139 x x x x x x x x x x x 90.57794 x x x 85.86702 x x 89.41422 x x 80.40057 x 51.81029 x x x x 66.59286 x x x x x
+x x x x x x 95.86744 x 81.27551 x x x x x x x x 91.19136 x x x x 79.86505 58.91813 x x x 56.65977 x x x x x x x x x x x x 70.5471 x x 76.60391 x x x x x x
+x 82.04649 x x 73.81149 x x 65.1219 x x x x x x x x x x x x x x x 72.53233 x x x x 80.28248 x x 95.63631 89.33893 60.29611 x 58.84352 x x x x x x x x x x 58.39549 x x 73.45422
+x x 76.43456 55.8763 x x x x x x x x x x x x x x x x x x x x 69.10836 x x 85.36871 x x x x x 91.28039 88.80475 x x x 64.47151 x x x x x x x x x 58.98303 x
+89.50406 62.7537 x x x x x x x x 68.89862 x x x x x 73.17779 x x 79.86505 x x x x x 57.78919 x x x x x x x 59.08309 x x x x x x x x 66.6614 x 62.96148 x x x 74.72877 57.86556
+x x x x x x x x x x x 95.85361 x x x x x x x 58.91813 72.53233 x x x x x x x x 92.43897 x x 90.69733 x x x x 61.0342 65.60221 x x x x x x x x x x x
+x x x x x x x x x x x x x x x x x 61.18195 x x x 69.10836 x x x x x 60.94305 x x x x x x x 65.08504 x x 54.56662 x x x 68.63687 54.53499 x 61.67177 x x x x
+x x x x x x x 69.71759 65.25561 56.48801 x x 91.15403 x x x x x x x x x 57.78919 x x x x x x x x 85.61738 x x x x x 50.49878 x x x 50.34297 x x x 52.96443 59.81401 x 97.98013 98.74999
+64.02615 x x x 72.828 84.10591 x x 63.9352 x x x x x 62.67006 x x x x x x x x x x x x x x 72.52961 x x x x x x x x x x x x x x x x 62.33948 x x x
+x 78.28633 x x x 71.46374 97.03218 x x x x x x x x x x x 90.57794 56.65977 x 85.36871 x x 60.94305 x x x x x x x x x x x x x x x x 75.84731 x x 90.27348 91.57804 x x x x
+x x x 65.58909 x x x x x 79.74939 x x x x x 63.06516 x x x x 80.28248 x x x x x x x x x x x x 68.7893 x x 70.17176 92.31611 x x x x 57.22483 x x 92.36142 x x 57.81647 x
+x x x x x x x x 62.61413 96.60801 x x x x x x x x x x x x x 92.43897 x x 72.52961 x x x x x 74.95441 x x 55.60544 x x x x x x 79.54992 x x 53.12966 x x 68.2142 x
+x 73.3729 x x 68.97904 x x x x 96.52188 x 68.91757 x x x x x x x x x x x x x x x x x x x x 80.49649 x 70.31809 x x 66.35734 x x x x x 51.12692 x x x x 80.74823 x
+x x 65.85335 x x 81.16954 x x 84.09449 66.95007 x x x 98.44957 x x x x 85.86702 x 95.63631 x x x x 85.61738 x x x x x x 57.67817 x x x x x x x x x x x x x x x x x
+x x x x x x x 73.91609 x x 65.79267 x x 97.65491 x x x x x x 89.33893 x x 90.69733 x x x x x 74.95441 80.49649 57.67817 x 72.31239 59.80995 x x x 91.12052 x x x x x x x x x x x
+x 94.21775 x x x 74.08488 x 71.25683 x x x 53.6929 x x x x x x x x 60.29611 91.28039 59.08309 x x x x x 68.7893 x x x 72.31239 x x x x x x 68.21826 x 90.82626 x x x x x 78.99701 x 51.10378
+x x x x x x x x x x x 75.49395 x x x x 81.08851 x 89.41422 x x 88.80475 x x x x x x x x 70.31809 x 59.80995 x x x x x x 56.53056 x x x x x x x x x x
+x x x x x x x x x x x x 97.59294 x 93.37588 73.27354 x x x x 58.84352 x x x 65.08504 x x x x 55.60544 x x x x x x x x x x x x 77.77178 x x 73.10279 x 56.17157 71.94596 x
+x x x x x x x x x x 89.0049 x x 86.03721 x x x x x x x x x x x x x x 70.17176 x x x x x x x x x x x x 73.82332 x x 68.44503 x x 77.72593 x x
+x x x x 97.95492 x x x x x x 72.53738 x 96.13599 x x x x 80.40057 x x x x 61.0342 x 50.49878 x x 92.31611 x 66.35734 x x x x x x x 70.85303 76.61366 96.75055 x x x x x x x x x
+x x x x x 53.70092 x x x x x x x x x x x 65.19504 x x x 64.47151 x 65.60221 54.56662 x x x x x x x 91.12052 x x x x 70.85303 x 50.57384 x x x 65.09694 x x x x x x
+x x 87.82829 x x x x x x 64.70391 x 91.70936 x x x x 94.68928 x 51.81029 x x x x x x x x x x x x x x 68.21826 56.53056 x x 76.61366 50.57384 x x x 95.98747 x x x x x x x
+x 67.11878 x x x x x x x x x x x x x x x x x 70.5471 x x x x x x x x x x x x x x x x x 96.75055 x x x 50.05909 x x 73.10762 x x x x x
+x x x 92.76232 x x x x x 91.44657 x x x x x 54.72232 x 77.09399 x x x x x x x 50.34297 x 75.84731 x x x x x 90.82626 x x 73.82332 x x x 50.05909 x x x x x x x x x
+x x 84.20225 x x x x 96.87081 x x x x x 60.75676 89.19209 x x x x x x x 66.6614 x 68.63687 x x x 57.22483 79.54992 x x x x x 77.77178 x x x 95.98747 x x x x x x x x 69.68508 x
+x 63.34387 x x x x x x x x x x x x x x x x x 76.60391 x x x x 54.53499 x x x x x 51.12692 x x x x x x x 65.09694 x x x x x x 63.09741 x 85.45705 x 57.67634
+x x x x 95.02312 63.61267 x 78.09538 x x 81.13259 x x x x x 69.56243 93.73656 66.59286 x x x 62.96148 x x x x 90.27348 x x x x x x x x 68.44503 x x x 73.10762 x x x x x x x x x
+x 67.47656 x x x x x x 70.97432 87.68908 x x 96.37761 x x x x x x x x x x x 61.67177 52.96443 x 91.57804 92.36142 53.12966 x x x x x 73.10279 x x x x x x x 63.09741 x x x 79.02515 x x
+x x x x x x 90.27818 x x x 77.82023 80.2036 x x x x x x x x 58.39549 x x x x 59.81401 62.33948 x x x x x x x x x x x x x x x x x x x x x x x
+x x x x x x 96.44677 x x x x 83.94749 x x x x x x x x x x x x x x x x x x x x x 78.99701 x 56.17157 77.72593 x x x x x x 85.45705 x 79.02515 x x x x
+x x x x 69.56983 79.87549 x x x x x 50.99657 x x x x x 51.37725 x x x 58.98303 74.72877 x x 97.98013 x x 57.81647 68.2142 80.74823 x x x x 71.94596 x x x x x x 69.68508 x x x x x x x
+x x x x x x x x x 62.74266 52.03565 91.56374 x x x x x x x x 73.45422 x 57.86556 x x 98.74999 x x x x x x x 51.10378 x x x x x x x x x 57.67634 x x x x x x
