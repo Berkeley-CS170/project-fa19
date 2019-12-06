@@ -1,6 +1,5 @@
 # Released to students
 
-import os
 import sys
 sys.path.append('..')
 sys.path.append('../..')
@@ -29,13 +28,12 @@ def validate_output(input_file, output_file, params=[]):
 def validate_all_outputs(input_directory, output_directory, params=[]):
     input_files = utils.get_files_with_extension(input_directory, '.in')
     output_files = utils.get_files_with_extension(output_directory, '.out')
-    base_output_files = [os.path.basename(file) for file in output_files]
 
     all_results = []
     for input_file in input_files:
         output_file = utils.input_to_output(input_file, output_directory)
         print(input_file, output_file)
-        if os.path.basename(output_file) not in base_output_files:
+        if os.path.basename(output_file) not in output_files:
             print(f'No corresponding .out file for {input_file}')
             results = (None, None, f'No corresponding .out file for {input_file}')
         else:
